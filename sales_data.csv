@@ -1,0 +1,1001 @@
+Location,Month,Pizza Type,Sales,Weekday,Time of Day,Discount Offered,Customer Rating,Delivery Time (minutes),Temperature (°C),Number of Toppings,Order Method
+Vancouver,October,Pepperoni,184,Monday,Afternoon,0,2.6,32,21.8,2,Online
+Ottawa,April,Hawaiian,134,Saturday,Afternoon,10,1.7,33,-0.7,1,In-Person
+Vancouver,January,BBQ Chicken,55,Wednesday,Night,20,1.6,59,14.8,2,Phone
+Calgary,December,BBQ Chicken,158,Tuesday,Night,0,3.4,47,24.8,6,In-Person
+Vancouver,February,BBQ Chicken,194,Sunday,Night,20,4.4,46,22.7,1,Online
+Calgary,November,Veggie,124,Wednesday,Night,10,1.5,48,21.6,2,In-Person
+Ottawa,June,Hawaiian,156,Monday,Night,5,4.1,25,3.2,4,In-Person
+Edmonton,April,BBQ Chicken,139,Wednesday,Night,15,1.1,30,1.5,3,In-Person
+Toronto,December,Pepperoni,178,Wednesday,Night,5,1.0,55,0.3,4,Online
+Ottawa,March,Hawaiian,136,Friday,Morning,5,1.2,46,20.1,2,Phone
+awa,July,Veggie,106,Wednesday,Night,0,4.0,52,8.8,4,In-Person
+Edmonton,August,Veggie,139,Wednesday,Afternoon,0,1.7,37,-1.8,2,In-Person
+Calgary,December,Veggie,137,Saturday,Afternoon,15,2.4,42,-1.2,4,Online
+Vancouver,July,Cheese,149,Friday,Night,10,3.2,37,-6.1,5,In-Person
+Vancouver,February,Hawaiian,175,Monday,Night,5,1.6,51,-8.4,5,Online
+Edmonton,August,Cheese,161,Wednesday,Night,15,1.6,41,2.3,1,In-Person
+Calgary,January,BBQ Chicken,154,Wednesday,Evening,20,1.7,43,20.3,4,Phone
+Vancouver,October,Hawaiian,86,Wednesday,Morning,15,4.6,26,0.1,4,Online
+Toronto,May,Veggie,110,Tuesday,Night,20,2.5,37,16.9,5,Phone
+Ottawa,November,Cheese,186,Tuesday,Evening,20,4.3,42,2.0,1,In-Person
+Vancouver,August,Pepperoni,196,Friday,Afternoon,15,1.6,44,22.0,2,Phone
+Calgary,January,Pepperoni,72,Thursday,Morning,5,1.8,43,24.8,4,Phone
+Calgary,June,BBQ Chicken,106,Thursday,Morning,0,1.9,38,-8.8,3,In-Person
+Ottawa,September,BBQ Chicken,158,Saturday,Evening,20,4.4,29,24.5,6,Online
+Ottawa,September,Pepperoni,163,Wednesday,Evening,5,2.1,49,24.6,5,In-Person
+Calgary,February,BBQ Chicken,51,Tuesday,Afternoon,10,1.5,26,15.9,6,Online
+Calgary,July,Hawaiian,192,Friday,Evening,5,4.0,42,8.1,2,In-Person
+Vancouver,April,BBQ Chicken,123,Thursday,Evening,10,5.0,46,-5.1,5,In-Person
+Edmonton,September,Veggie,132,Saturday,Morning,5,2.3,38,15.4,2,Phone
+Calgary,October,Pepperoni,140,Wednesday,Night,20,3.8,38,6.0,3,Phone
+Toronto,June,Pepperoni,103,Tuesday,Evening,10,2.8,55,3.1,2,Phone
+Calgary,November,BBQ Chicken,112,Wednesday,Night,0,4.1,58,-9.4,3,In-Person
+Ottawa,May,Cheese,110,Tuesday,Morning,5,1.1,29,-9.3,1,In-Person
+Calgary,June,BBQ Chicken,172,Sunday,Morning,20,3.7,58,2.6,6,In-Person
+Calgary,March,Cheese,194,Wednesday,Evening,10,2.3,30,9.8,3,Online
+Ottawa,December,BBQ Chicken,193,Saturday,Afternoon,15,4.6,24,-6.8,5,Online
+Vancouver,September,Pepperoni,134,Friday,Night,5,4.0,36,17.4,2,Phone
+Vancouver,November,Hawaiian,118,Saturday,Night,20,3.1,31,17.5,4,In-Person
+Calgary,June,Veggie,56,Friday,Afternoon,5,2.4,32,28.4,3,Online
+Toronto,February,Veggie,184,Thursday,Night,15,4.3,43,-0.3,5,Online
+Calgary,March,Pepperoni,119,Monday,Night,20,2.0,28,20.0,3,Online
+Toronto,October,BBQ Chicken,133,Monday,Afternoon,5,1.6,41,2.2,4,Online
+Edmonton,January,BBQ Chicken,104,Sunday,Night,15,4.3,24,9.6,4,Phone
+Ottawa,September,Veggie,71,Monday,Night,15,1.7,30,20.0,5,Phone
+Vancouver,January,Veggie,67,Sunday,Afternoon,20,2.6,46,24.3,4,In-Person
+Vancouver,January,Cheese,127,Sunday,Night,10,2.9,51,27.8,3,Phone
+Calgary,October,Pepperoni,93,Friday,Morning,20,2.7,51,-5.1,1,Phone
+Toronto,March,Hawaiian,82,Friday,Morning,15,4.3,35,-5.7,4,In-Person
+Calgary,June,Hawaiian,193,Friday,Night,5,4.4,46,27.3,5,Phone
+Calgary,March,Hawaiian,117,Friday,Night,20,2.7,31,-9.2,3,Online
+Ottawa,April,Veggie,123,Friday,Morning,10,3.6,47,18.8,3,Phone
+Ottawa,June,Pepperoni,68,Thursday,Morning,15,3.0,50,21.6,5,In-Person
+Ottawa,January,BBQ Chicken,173,Saturday,Night,5,1.3,38,15.3,4,Phone
+Vancouver,June,Cheese,68,Sunday,Morning,20,2.0,30,-6.9,4,In-Person
+Calgary,May,Pepperoni,99,Tuesday,Evening,10,2.7,43,11.9,5,Online
+Calgary,May,Hawaiian,111,Wednesday,Afternoon,0,1.2,36,-8.9,4,In-Person
+Edmonton,August,BBQ Chicken,95,Thursday,Morning,10,2.2,23,7.9,1,In-Person
+Vancouver,April,BBQ Chicken,85,Tuesday,Night,20,3.2,25,27.5,3,Online
+Calgary,April,BBQ Chicken,60,Tuesday,Morning,0,4.3,38,23.0,4,Online
+Vancouver,October,Veggie,147,Tuesday,Morning,10,4.5,55,22.1,6,Online
+Vancouver,February,Cheese,53,Saturday,Night,0,3.2,45,-6.8,1,In-Person
+Ottawa,September,Hawaiian,107,Monday,Morning,20,3.5,54,26.9,4,Online
+Edmonton,December,BBQ Chicken,61,Tuesday,Afternoon,20,3.2,39,27.6,3,In-Person
+Edmonton,November,Veggie,128,Sunday,Afternoon,15,4.2,31,16.6,5,In-Person
+Calgary,March,Veggie,137,Thursday,Afternoon,20,2.1,48,27.8,6,Phone
+Ottawa,June,Hawaiian,69,Thursday,Evening,5,3.3,37,24.2,3,In-Person
+Vancouver,June,Cheese,192,Monday,Morning,0,4.4,58,13.3,3,Phone
+Toronto,September,BBQ Chicken,111,Thursday,Morning,20,3.5,29,-4.5,4,Online
+Vancouver,August,Cheese,85,Friday,Evening,10,3.3,21,4.7,2,Online
+Vancouver,December,Veggie,120,Saturday,Morning,5,4.6,47,-2.2,2,In-Person
+Edmonton,August,Pepperoni,149,Monday,Afternoon,5,4.5,38,16.8,2,In-Person
+Vancouver,January,Pepperoni,177,Thursday,Afternoon,15,2.0,59,21.1,2,Online
+Vancouver,November,Pepperoni,98,Monday,Evening,20,4.1,47,3.4,6,Online
+Toronto,December,Veggie,132,Saturday,Afternoon,10,2.0,20,18.6,5,In-Person
+Ottawa,February,Cheese,68,Friday,Evening,0,1.3,44,-3.0,4,Phone
+Calgary,January,Veggie,124,Wednesday,Evening,15,4.1,54,11.8,5,Phone
+Vancouver,October,Hawaiian,178,Friday,Morning,0,4.0,32,16.7,5,Phone
+Calgary,February,Cheese,100,Monday,Night,20,3.0,22,0.3,1,In-Person
+Toronto,April,Hawaiian,181,Monday,Night,5,2.6,39,10.0,3,Phone
+Vancouver,December,Pepperoni,132,Sunday,Morning,5,1.6,59,26.7,1,In-Person
+Vancouver,April,BBQ Chicken,148,Wednesday,Morning,10,4.5,25,17.6,1,Online
+Vancouver,July,Cheese,144,Friday,Night,0,4.2,59,18.5,2,In-Person
+Edmonton,August,Veggie,157,Friday,Afternoon,15,4.4,21,26.2,3,In-Person
+Edmonton,March,Pepperoni,69,Tuesday,Evening,0,4.8,51,-6.2,2,Phone
+Ottawa,December,Hawaiian,84,Friday,Night,5,4.9,25,13.7,1,In-Person
+Ottawa,July,Hawaiian,122,Wednesday,Night,0,5.0,38,0.1,1,Online
+Vancouver,October,BBQ Chicken,50,Friday,Morning,0,3.3,29,22.8,6,In-Person
+Ottawa,May,Hawaiian,73,Thursday,Night,0,3.4,44,17.3,3,Phone
+Edmonton,October,BBQ Chicken,177,Saturday,Night,0,3.0,52,20.6,1,Phone
+Edmonton,January,Pepperoni,54,Monday,Afternoon,10,2.9,21,-5.3,4,Online
+Calgary,May,Veggie,65,Tuesday,Morning,0,3.7,31,-2.5,5,In-Person
+Toronto,December,BBQ Chicken,96,Tuesday,Morning,0,4.7,46,-3.7,4,Phone
+Edmonton,September,Pepperoni,65,Sunday,Morning,0,2.5,39,-1.5,3,Online
+Ottawa,June,Cheese,112,Tuesday,Morning,20,4.4,56,-4.5,1,Phone
+Edmonton,May,BBQ Chicken,90,Tuesday,Morning,5,4.6,35,-8.5,5,Online
+Calgary,November,Cheese,81,Sunday,Morning,5,3.8,30,6.9,6,Online
+Toronto,January,Hawaiian,156,Thursday,Evening,15,4.1,26,8.6,4,Phone
+Toronto,December,Hawaiian,136,Tuesday,Afternoon,20,1.8,49,26.0,3,Phone
+Edmonton,July,BBQ Chicken,165,Thursday,Evening,15,1.2,44,11.4,1,Online
+Calgary,April,Veggie,154,Thursday,Afternoon,20,4.8,45,10.1,3,Online
+Edmonton,April,Cheese,191,Wednesday,Afternoon,10,2.3,23,22.1,3,Online
+Edmonton,June,Veggie,153,Tuesday,Night,5,1.2,45,19.4,1,In-Person
+Edmonton,September,Cheese,56,Sunday,Afternoon,5,4.7,25,-5.6,5,In-Person
+Edmonton,October,Veggie,167,Wednesday,Afternoon,0,3.0,32,10.0,1,In-Person
+Toronto,March,Veggie,178,Tuesday,Night,15,4.2,47,-6.8,3,Online
+Vancouver,July,Veggie,189,Thursday,Morning,20,3.5,27,7.7,3,In-Person
+Calgary,May,BBQ Chicken,185,Wednesday,Afternoon,5,3.5,57,-7.3,4,In-Person
+Calgary,May,Hawaiian,119,Tuesday,Morning,5,1.2,31,29.7,1,In-Person
+Calgary,September,Pepperoni,100,Friday,Evening,15,2.6,58,1.9,4,In-Person
+Calgary,November,Hawaiian,176,Thursday,Afternoon,5,4.9,34,20.4,4,Online
+Calgary,October,BBQ Chicken,194,Tuesday,Morning,0,4.0,54,-7.9,4,Phone
+Edmonton,March,BBQ Chicken,143,Sunday,Morning,0,3.8,26,9.5,1,Online
+Ottawa,July,BBQ Chicken,96,Sunday,Night,5,3.3,43,15.4,5,Phone
+Edmonton,May,BBQ Chicken,193,Sunday,Night,10,2.3,22,10.6,5,In-Person
+Vancouver,November,BBQ Chicken,125,Tuesday,Morning,20,3.5,36,12.7,6,Online
+Calgary,August,BBQ Chicken,92,Saturday,Morning,5,2.1,47,25.4,3,Online
+Edmonton,July,Cheese,86,Saturday,Afternoon,0,3.5,41,-1.3,2,In-Person
+Calgary,March,BBQ Chicken,85,Monday,Morning,5,3.2,22,18.8,6,In-Person
+Calgary,April,Cheese,111,Monday,Afternoon,5,2.5,44,10.7,4,In-Person
+Calgary,September,BBQ Chicken,163,Friday,Night,20,2.1,44,19.4,6,Online
+Toronto,September,BBQ Chicken,190,Friday,Afternoon,15,1.7,48,10.9,6,Phone
+Ottawa,December,Cheese,102,Saturday,Afternoon,20,3.2,42,9.1,3,Phone
+Ottawa,August,Veggie,179,Wednesday,Evening,0,3.3,36,3.0,3,Phone
+Vancouver,December,Cheese,159,Thursday,Afternoon,20,1.5,58,25.1,5,Online
+Vancouver,May,BBQ Chicken,149,Sunday,Morning,5,1.1,55,7.2,1,In-Person
+Calgary,April,Cheese,76,Friday,Afternoon,5,2.0,33,2.0,4,In-Person
+Edmonton,February,Veggie,177,Saturday,Morning,0,3.8,24,-0.8,1,Online
+Vancouver,December,Veggie,130,Thursday,Morning,10,4.4,58,25.6,5,Phone
+Vancouver,February,Cheese,63,Saturday,Night,15,4.0,24,0.1,4,Phone
+Edmonton,June,Hawaiian,126,Saturday,Night,0,3.3,49,27.9,6,Phone
+Calgary,March,Cheese,62,Friday,Evening,0,4.9,31,1.2,3,Online
+Edmonton,May,Cheese,128,Tuesday,Afternoon,20,1.7,53,-3.5,2,In-Person
+Calgary,April,BBQ Chicken,84,Saturday,Afternoon,20,3.1,31,21.8,1,Phone
+Vancouver,April,BBQ Chicken,142,Friday,Afternoon,20,1.1,23,26.4,3,Online
+Ottawa,November,Hawaiian,51,Sunday,Night,15,1.8,26,2.9,2,Phone
+Toronto,March,Cheese,156,Tuesday,Morning,20,2.3,25,-4.0,4,Online
+Ottawa,September,Hawaiian,91,Sunday,Evening,0,5.0,59,14.9,6,In-Person
+Calgary,April,Veggie,93,Sunday,Evening,10,2.0,39,-1.1,6,Online
+Vancouver,January,BBQ Chicken,121,Saturday,Afternoon,20,2.6,42,14.7,5,Phone
+Vancouver,January,Hawaiian,116,Tuesday,Evening,20,3.4,31,0.2,5,Phone
+Toronto,September,Pepperoni,51,Saturday,Afternoon,0,1.5,32,12.2,3,In-Person
+Edmonton,August,BBQ Chicken,87,Wednesday,Afternoon,5,3.6,21,6.7,3,Online
+Vancouver,December,Veggie,139,Saturday,Night,20,2.1,37,-7.9,6,Phone
+Calgary,July,Cheese,159,Tuesday,Evening,10,4.0,21,-0.6,6,Online
+Edmonton,October,Pepperoni,78,Friday,Morning,0,2.5,57,29.9,3,In-Person
+Vancouver,March,Hawaiian,156,Wednesday,Morning,10,2.5,36,28.4,2,Online
+Calgary,January,Pepperoni,129,Monday,Evening,20,3.9,56,20.7,5,Online
+Ottawa,June,Veggie,198,Monday,Morning,20,1.4,59,16.5,1,In-Person
+Toronto,April,Cheese,109,Tuesday,Morning,15,1.5,29,24.9,2,In-Person
+Toronto,October,BBQ Chicken,147,Monday,Night,15,2.2,46,-5.7,1,Online
+Toronto,December,BBQ Chicken,87,Friday,Afternoon,5,1.2,25,24.6,6,In-Person
+Toronto,June,Veggie,195,Sunday,Night,20,3.3,23,6.8,6,In-Person
+Toronto,March,Veggie,68,Sunday,Evening,15,4.3,29,-9.6,6,Online
+Vancouver,November,Veggie,130,Wednesday,Morning,5,4.2,42,29.2,3,In-Person
+Edmonton,December,BBQ Chicken,166,Tuesday,Afternoon,15,4.1,43,5.2,5,Phone
+Calgary,September,Cheese,136,Friday,Morning,15,3.0,26,7.4,5,Phone
+Calgary,February,Pepperoni,163,Tuesday,Night,10,4.4,29,10.8,5,In-Person
+Calgary,November,Cheese,80,Tuesday,Afternoon,0,1.7,30,10.5,5,Phone
+Edmonton,November,Hawaiian,121,Monday,Afternoon,15,2.2,25,-3.5,2,In-Person
+Calgary,July,Hawaiian,191,Friday,Evening,5,1.4,57,12.3,3,Online
+Toronto,July,Veggie,105,Monday,Morning,0,3.1,20,25.8,2,Online
+Calgary,June,BBQ Chicken,85,Wednesday,Morning,0,1.2,42,15.6,5,In-Person
+Edmonton,July,Pepperoni,60,Sunday,Evening,10,4.9,52,7.4,4,In-Person
+Ottawa,September,Pepperoni,186,Tuesday,Morning,5,1.4,56,10.6,5,Online
+Toronto,June,Hawaiian,118,Tuesday,Evening,5,2.0,34,-5.7,2,In-Person
+Toronto,September,Pepperoni,54,Friday,Morning,20,3.0,40,2.3,6,In-Person
+Toronto,June,Veggie,158,Sunday,Night,5,2.5,50,24.7,1,Online
+Edmonton,December,Pepperoni,76,Thursday,Morning,5,4.5,52,27.4,2,Online
+Calgary,October,Pepperoni,85,Sunday,Evening,10,2.8,29,26.1,5,Phone
+Calgary,December,Hawaiian,127,Thursday,Morning,5,4.4,34,15.7,5,Phone
+Vancouver,November,Veggie,177,Friday,Night,10,4.3,29,27.3,6,Online
+Vancouver,November,Hawaiian,103,Thursday,Evening,10,2.3,31,29.0,6,Online
+Calgary,December,Hawaiian,189,Saturday,Morning,0,2.8,49,28.2,3,Online
+Toronto,January,BBQ Chicken,65,Wednesday,Morning,0,1.3,37,28.5,5,In-Person
+Toronto,May,Veggie,168,Wednesday,Night,0,2.1,54,3.2,3,Online
+Calgary,November,Hawaiian,51,Wednesday,Morning,15,1.5,33,20.9,4,In-Person
+Ottawa,February,BBQ Chicken,81,Tuesday,Evening,15,2.4,29,-7.4,6,Online
+Toronto,February,Cheese,88,Saturday,Evening,20,4.7,33,8.6,5,Online
+Calgary,May,Hawaiian,196,Wednesday,Morning,0,1.7,51,28.6,4,In-Person
+Calgary,June,Cheese,126,Saturday,Morning,0,4.8,43,15.4,5,In-Person
+Ottawa,March,BBQ Chicken,168,Saturday,Morning,10,4.4,57,-2.8,5,In-Person
+Ottawa,September,Cheese,188,Friday,Evening,10,1.6,44,-0.6,6,Phone
+Calgary,February,Cheese,108,Sunday,Morning,15,1.8,26,10.7,2,Online
+Ottawa,December,Hawaiian,101,Monday,Night,20,3.2,20,14.1,6,Online
+Vancouver,June,Veggie,199,Sunday,Afternoon,5,1.1,45,6.6,5,In-Person
+Calgary,January,Pepperoni,139,Friday,Night,20,3.8,50,22.9,1,Online
+Edmonton,October,Cheese,65,Sunday,Morning,10,2.7,38,20.1,6,Phone
+Toronto,November,BBQ Chicken,68,Friday,Morning,20,2.5,35,28.8,5,Online
+Toronto,November,BBQ Chicken,119,Wednesday,Evening,20,2.0,30,7.4,4,Phone
+Ottawa,December,Cheese,137,Friday,Afternoon,0,1.3,53,16.1,1,In-Person
+Vancouver,January,Pepperoni,182,Friday,Afternoon,20,4.6,26,16.5,5,In-Person
+Ottawa,September,Hawaiian,68,Thursday,Morning,0,3.3,57,-1.9,2,Phone
+Calgary,February,Pepperoni,108,Tuesday,Night,20,4.2,52,2.8,3,In-Person
+Vancouver,July,BBQ Chicken,177,Saturday,Afternoon,15,4.7,36,-8.6,1,Phone
+Vancouver,December,Veggie,159,Sunday,Evening,10,3.6,30,25.3,6,In-Person
+Edmonton,December,Pepperoni,80,Monday,Morning,5,2.4,20,14.2,5,In-Person
+Vancouver,October,BBQ Chicken,154,Tuesday,Night,20,2.3,31,22.6,5,In-Person
+Calgary,October,Veggie,162,Tuesday,Morning,10,1.8,23,-5.7,4,Phone
+Calgary,October,Hawaiian,102,Sunday,Afternoon,20,3.4,57,24.6,4,In-Person
+Vancouver,September,Veggie,105,Wednesday,Night,20,3.9,30,28.4,5,Phone
+Toronto,July,Pepperoni,163,Saturday,Afternoon,20,4.6,46,23.1,1,In-Person
+Ottawa,June,Cheese,169,Sunday,Morning,15,5.0,52,24.4,3,Phone
+Ottawa,March,Cheese,124,Saturday,Night,5,1.3,31,11.5,4,Online
+Ottawa,June,BBQ Chicken,85,Tuesday,Afternoon,0,4.6,31,-9.9,3,Phone
+Calgary,June,Hawaiian,93,Thursday,Afternoon,0,3.1,56,21.4,6,Online
+Calgary,June,Pepperoni,192,Friday,Evening,5,4.1,31,25.0,2,In-Person
+Edmonton,April,Veggie,186,Monday,Evening,20,4.0,36,27.1,2,Phone
+Calgary,May,BBQ Chicken,72,Monday,Afternoon,10,3.7,20,17.7,6,Online
+Calgary,November,Veggie,185,Wednesday,Afternoon,10,2.8,28,12.0,3,Online
+Ottawa,October,Hawaiian,73,Tuesday,Night,20,4.7,55,2.9,6,In-Person
+Ottawa,May,Hawaiian,111,Sunday,Morning,15,2.1,31,0.4,4,Phone
+Vancouver,April,Hawaiian,150,Saturday,Night,15,4.8,52,1.6,3,Online
+Edmonton,September,Cheese,61,Sunday,Evening,20,1.5,45,1.3,3,In-Person
+Calgary,June,Veggie,137,Thursday,Afternoon,20,1.0,57,27.5,5,Phone
+Ottawa,September,Pepperoni,83,Monday,Evening,0,1.7,48,24.1,2,Online
+Calgary,May,Cheese,133,Wednesday,Night,20,4.7,47,-9.4,4,Phone
+Ottawa,July,Cheese,51,Saturday,Afternoon,15,4.4,42,-4.0,3,Online
+Edmonton,November,Hawaiian,89,Friday,Evening,20,1.6,43,3.9,5,Online
+Vancouver,September,Pepperoni,119,Wednesday,Morning,15,2.1,46,14.4,4,Phone
+Ottawa,December,Veggie,146,Saturday,Afternoon,0,4.6,41,5.2,3,In-Person
+Calgary,March,Veggie,184,Monday,Evening,5,1.9,25,12.2,5,In-Person
+Edmonton,March,Hawaiian,162,Sunday,Morning,0,1.5,55,19.1,4,Online
+Edmonton,December,Hawaiian,69,Sunday,Evening,20,1.4,56,3.7,6,Phone
+Vancouver,September,Veggie,94,Tuesday,Night,10,1.3,34,1.0,4,In-Person
+Vancouver,January,Cheese,110,Saturday,Night,15,4.6,23,-3.7,1,Online
+Calgary,May,Veggie,186,Wednesday,Night,15,1.9,22,16.9,2,In-Person
+Edmonton,April,BBQ Chicken,186,Tuesday,Night,20,1.2,47,-3.0,4,In-Person
+Calgary,December,Pepperoni,89,Wednesday,Evening,0,2.5,39,21.1,4,In-Person
+Edmonton,August,Veggie,185,Sunday,Night,15,3.7,57,6.0,3,Online
+Calgary,August,Hawaiian,137,Wednesday,Afternoon,5,2.8,34,19.0,5,Online
+Ottawa,June,Hawaiian,102,Saturday,Afternoon,20,1.2,59,17.5,4,Phone
+Ottawa,July,Veggie,103,Wednesday,Night,20,3.7,23,20.3,6,In-Person
+Toronto,May,Hawaiian,95,Wednesday,Afternoon,0,5.0,23,14.4,2,Online
+Calgary,December,Pepperoni,55,Tuesday,Evening,5,3.0,31,6.6,6,Phone
+Toronto,March,Cheese,89,Sunday,Evening,5,4.6,32,-1.3,1,In-Person
+Edmonton,November,BBQ Chicken,66,Friday,Night,5,4.4,29,29.1,4,Phone
+Toronto,November,Hawaiian,166,Monday,Afternoon,10,4.8,51,24.5,4,Phone
+Vancouver,February,Veggie,163,Tuesday,Afternoon,5,3.3,41,7.1,4,In-Person
+Ottawa,June,Cheese,155,Tuesday,Afternoon,20,3.7,30,13.8,3,Online
+Edmonton,May,Cheese,159,Thursday,Night,5,4.0,21,3.9,1,Online
+Toronto,May,Veggie,196,Sunday,Afternoon,15,1.8,38,-6.2,5,Online
+Vancouver,December,Cheese,56,Monday,Afternoon,10,1.1,59,-0.4,1,Phone
+Toronto,March,Hawaiian,72,Friday,Evening,10,4.0,39,5.8,1,Online
+Calgary,January,Pepperoni,128,Tuesday,Morning,10,3.2,49,8.7,1,Online
+Toronto,January,Cheese,110,Sunday,Night,20,2.0,47,15.5,3,In-Person
+Ottawa,October,Cheese,192,Monday,Afternoon,5,4.3,28,7.9,3,Online
+Toronto,May,Pepperoni,94,Sunday,Night,15,1.2,54,3.7,2,Online
+Toronto,September,Pepperoni,120,Monday,Morning,5,2.1,36,17.5,3,In-Person
+Toronto,December,Veggie,151,Tuesday,Morning,0,4.3,26,29.3,2,Online
+Ottawa,November,Veggie,86,Monday,Evening,5,2.2,26,5.3,3,In-Person
+Vancouver,January,Hawaiian,59,Friday,Night,0,3.4,51,20.2,5,Phone
+Ottawa,January,Cheese,79,Sunday,Afternoon,20,1.3,24,-8.6,6,In-Person
+Ottawa,July,Veggie,79,Wednesday,Evening,20,1.5,48,11.2,1,Online
+Edmonton,April,Pepperoni,54,Wednesday,Afternoon,10,4.4,29,29.9,6,In-Person
+Calgary,March,Cheese,57,Saturday,Afternoon,0,2.1,43,-0.0,6,In-Person
+Ottawa,August,BBQ Chicken,118,Friday,Evening,0,4.7,34,28.0,4,Online
+Edmonton,March,Cheese,73,Sunday,Night,10,2.7,57,16.8,3,Phone
+Vancouver,July,Veggie,194,Thursday,Evening,20,1.0,40,11.4,5,Phone
+Ottawa,October,Veggie,179,Tuesday,Night,0,2.3,22,1.6,3,In-Person
+Vancouver,May,Veggie,59,Friday,Morning,20,4.3,53,29.9,2,Online
+Calgary,February,Pepperoni,163,Sunday,Morning,5,3.7,42,9.8,4,Phone
+Toronto,September,Cheese,168,Friday,Night,5,1.5,39,26.3,2,Online
+Toronto,March,Cheese,77,Saturday,Night,20,1.6,43,3.9,1,Online
+Edmonton,May,Veggie,160,Sunday,Morning,0,4.1,31,10.9,3,Online
+Vancouver,May,Hawaiian,157,Thursday,Night,0,4.0,56,28.0,2,In-Person
+Calgary,May,Pepperoni,68,Saturday,Afternoon,0,2.1,45,13.8,2,In-Person
+Toronto,April,Pepperoni,105,Tuesday,Afternoon,15,1.5,45,-8.4,4,Phone
+Calgary,September,BBQ Chicken,120,Sunday,Morning,5,3.0,32,0.7,1,Online
+Calgary,September,Pepperoni,117,Thursday,Morning,0,4.8,49,21.0,5,In-Person
+Vancouver,November,Pepperoni,148,Sunday,Evening,0,1.8,30,-4.4,3,Online
+Vancouver,June,Pepperoni,183,Monday,Morning,10,4.3,47,2.0,2,Phone
+Calgary,May,Veggie,67,Tuesday,Afternoon,0,2.0,29,-9.6,1,In-Person
+Edmonton,January,Hawaiian,68,Monday,Night,10,3.1,48,17.3,6,Phone
+Ottawa,August,Pepperoni,118,Thursday,Morning,20,4.9,22,18.7,3,In-Person
+Calgary,January,Pepperoni,54,Wednesday,Morning,0,2.9,46,-1.3,5,Phone
+Ottawa,July,BBQ Chicken,70,Friday,Night,0,1.5,48,-8.1,3,In-Person
+Edmonton,September,BBQ Chicken,119,Sunday,Night,0,4.7,46,12.5,5,Online
+Toronto,December,Pepperoni,139,Monday,Night,20,4.6,46,13.1,2,Online
+Calgary,June,Veggie,89,Saturday,Night,15,2.0,55,15.8,6,In-Person
+Vancouver,August,Pepperoni,91,Friday,Evening,10,2.4,31,1.8,6,Phone
+Ottawa,August,Cheese,151,Friday,Afternoon,20,3.1,39,4.2,5,In-Person
+Edmonton,April,Veggie,76,Saturday,Morning,0,4.7,43,24.8,4,Phone
+Ottawa,December,BBQ Chicken,69,Wednesday,Afternoon,20,4.4,24,15.1,6,In-Person
+Calgary,July,Veggie,167,Saturday,Morning,10,2.8,58,22.7,2,Phone
+Ottawa,December,Veggie,68,Friday,Morning,5,3.6,46,2.7,1,Online
+Calgary,September,Cheese,83,Wednesday,Morning,15,4.5,47,-5.1,4,Online
+Calgary,October,BBQ Chicken,70,Tuesday,Morning,10,3.7,27,12.8,5,Online
+Ottawa,February,Veggie,111,Saturday,Morning,0,4.6,20,6.4,2,In-Person
+Vancouver,March,BBQ Chicken,73,Tuesday,Morning,10,4.1,36,11.5,2,In-Person
+Ottawa,January,Hawaiian,174,Friday,Afternoon,10,1.1,23,-7.7,3,In-Person
+Ottawa,May,Hawaiian,175,Thursday,Afternoon,15,4.0,54,25.6,1,Online
+Edmonton,July,Veggie,85,Friday,Evening,10,5.0,47,3.2,6,In-Person
+Edmonton,July,Pepperoni,85,Sunday,Night,15,1.1,24,-5.0,1,In-Person
+Calgary,August,Pepperoni,81,Wednesday,Night,0,3.1,46,7.0,4,Phone
+Edmonton,June,Pepperoni,168,Tuesday,Morning,0,4.4,36,9.5,4,Phone
+Edmonton,July,BBQ Chicken,121,Monday,Evening,0,4.9,24,-3.1,2,In-Person
+Calgary,November,Pepperoni,140,Tuesday,Evening,0,2.6,57,14.9,3,In-Person
+Edmonton,April,Hawaiian,155,Friday,Evening,0,5.0,45,1.3,6,Phone
+Vancouver,May,Hawaiian,128,Tuesday,Morning,20,2.3,25,-7.9,3,In-Person
+Toronto,April,Hawaiian,84,Tuesday,Evening,10,2.6,26,2.2,3,Phone
+Ottawa,September,Cheese,114,Saturday,Evening,5,2.2,28,-5.6,6,In-Person
+Toronto,January,Veggie,54,Tuesday,Evening,15,3.7,21,21.1,3,Online
+Toronto,August,Hawaiian,74,Tuesday,Morning,15,1.1,29,18.3,2,In-Person
+Toronto,December,Hawaiian,194,Wednesday,Afternoon,20,1.7,33,-8.3,6,Phone
+Toronto,July,BBQ Chicken,77,Wednesday,Afternoon,20,2.6,37,-3.7,2,Online
+Edmonton,July,Hawaiian,63,Wednesday,Evening,20,3.2,30,18.7,5,Online
+Toronto,August,Pepperoni,151,Monday,Afternoon,20,2.8,56,5.8,5,Online
+Edmonton,January,Hawaiian,196,Monday,Morning,15,3.2,47,16.9,1,Phone
+Toronto,August,Cheese,145,Friday,Night,10,2.2,25,1.1,4,Online
+Calgary,February,Cheese,176,Friday,Evening,15,4.7,36,20.8,5,In-Person
+Edmonton,September,Veggie,93,Friday,Afternoon,15,1.6,52,25.6,4,Phone
+Calgary,September,Pepperoni,109,Saturday,Evening,0,4.4,46,-3.3,1,In-Person
+Vancouver,November,Hawaiian,157,Thursday,Night,15,3.7,31,-5.7,5,In-Person
+Toronto,November,BBQ Chicken,149,Tuesday,Afternoon,15,3.7,51,-4.9,6,Phone
+Vancouver,November,Hawaiian,123,Wednesday,Evening,5,2.0,52,21.5,2,Online
+Calgary,November,Hawaiian,106,Thursday,Afternoon,0,2.8,55,-9.9,2,In-Person
+Vancouver,June,Cheese,63,Sunday,Afternoon,20,2.1,20,-9.5,6,In-Person
+Calgary,November,Cheese,71,Saturday,Morning,0,2.9,35,21.1,4,In-Person
+Vancouver,December,BBQ Chicken,186,Thursday,Evening,5,3.7,54,28.7,5,Online
+Calgary,June,Cheese,120,Sunday,Night,5,5.0,49,2.8,3,Online
+Vancouver,April,Veggie,197,Sunday,Afternoon,15,4.7,33,2.9,6,In-Person
+Calgary,March,Hawaiian,135,Thursday,Evening,20,1.3,28,13.8,4,In-Person
+Vancouver,January,Hawaiian,130,Thursday,Morning,5,2.0,35,28.2,6,Phone
+Ottawa,December,BBQ Chicken,197,Wednesday,Morning,0,3.7,53,24.9,2,Online
+Ottawa,December,Hawaiian,53,Thursday,Night,10,1.9,28,15.4,3,In-Person
+Calgary,December,Cheese,68,Friday,Evening,5,2.0,40,28.5,6,In-Person
+Vancouver,August,Cheese,101,Wednesday,Evening,15,3.2,34,10.5,2,In-Person
+Toronto,July,Veggie,99,Tuesday,Morning,5,4.2,52,15.7,1,Phone
+Vancouver,September,Pepperoni,94,Thursday,Evening,20,1.8,52,25.3,2,In-Person
+Toronto,December,Veggie,154,Tuesday,Morning,0,1.9,47,28.6,6,In-Person
+Vancouver,October,Cheese,88,Thursday,Morning,20,4.0,38,12.5,4,Phone
+Vancouver,February,Pepperoni,186,Thursday,Morning,15,3.8,42,24.2,6,Online
+Edmonton,June,BBQ Chicken,121,Friday,Afternoon,0,3.1,28,18.3,1,In-Person
+Calgary,January,Hawaiian,176,Wednesday,Evening,5,1.7,46,-7.1,6,Online
+Calgary,September,BBQ Chicken,158,Thursday,Morning,10,3.4,55,24.9,4,Online
+Toronto,July,BBQ Chicken,119,Wednesday,Afternoon,20,3.5,47,6.2,6,Phone
+Toronto,October,Cheese,143,Thursday,Night,15,2.3,56,-6.6,1,Online
+Ottawa,April,Cheese,138,Tuesday,Morning,0,4.0,40,15.7,6,Phone
+Toronto,December,Cheese,54,Saturday,Night,5,2.4,40,20.0,4,Phone
+Toronto,February,BBQ Chicken,190,Saturday,Afternoon,5,2.1,28,24.5,6,Phone
+Vancouver,May,Veggie,116,Tuesday,Morning,0,3.8,32,-1.9,5,Phone
+Toronto,August,Cheese,73,Monday,Afternoon,0,4.2,31,5.4,2,In-Person
+Calgary,August,Cheese,130,Wednesday,Afternoon,10,3.5,55,18.2,4,In-Person
+Calgary,August,Veggie,174,Friday,Night,15,2.0,47,12.7,6,Phone
+Vancouver,November,BBQ Chicken,118,Tuesday,Morning,0,2.6,27,19.1,3,Online
+Vancouver,March,Veggie,157,Wednesday,Morning,5,1.5,38,16.8,5,Online
+Ottawa,August,Hawaiian,74,Monday,Night,20,1.1,36,16.6,1,In-Person
+Calgary,December,Veggie,56,Monday,Afternoon,0,1.2,30,-9.5,3,Online
+Vancouver,June,Hawaiian,139,Friday,Morning,15,3.1,49,-6.2,1,Phone
+Toronto,September,Veggie,194,Saturday,Afternoon,10,2.9,45,-8.6,4,In-Person
+Edmonton,August,BBQ Chicken,143,Saturday,Evening,10,3.9,33,8.5,4,Phone
+Vancouver,April,Veggie,157,Wednesday,Morning,10,1.9,57,-0.7,1,Phone
+Calgary,February,Veggie,83,Sunday,Afternoon,0,2.2,57,22.2,4,In-Person
+Toronto,November,BBQ Chicken,53,Thursday,Afternoon,10,4.3,53,-2.5,1,Phone
+Toronto,February,Hawaiian,117,Monday,Evening,20,4.1,26,2.1,4,In-Person
+Edmonton,January,Hawaiian,80,Tuesday,Morning,10,3.1,37,20.3,6,In-Person
+Calgary,February,Cheese,133,Wednesday,Evening,0,3.3,21,29.2,1,Online
+Calgary,February,BBQ Chicken,132,Tuesday,Night,0,1.9,44,24.2,3,In-Person
+Toronto,March,BBQ Chicken,52,Wednesday,Evening,0,1.2,58,19.4,6,Phone
+Edmonton,September,Pepperoni,137,Monday,Evening,0,2.4,45,13.0,4,Online
+Edmonton,February,Pepperoni,172,Monday,Afternoon,10,1.4,21,-7.9,6,In-Person
+Ottawa,June,Veggie,91,Thursday,Morning,20,1.8,48,3.5,1,Online
+Calgary,May,BBQ Chicken,169,Sunday,Morning,5,1.4,31,7.7,3,Online
+Toronto,July,Veggie,75,Friday,Night,10,2.6,30,13.1,3,Online
+Edmonton,March,Pepperoni,69,Saturday,Morning,5,3.6,48,28.7,3,In-Person
+Vancouver,June,Hawaiian,195,Saturday,Afternoon,10,4.2,36,15.5,4,In-Person
+Toronto,November,Pepperoni,87,Saturday,Morning,15,3.2,50,5.6,6,In-Person
+Toronto,November,Cheese,97,Sunday,Afternoon,10,4.5,46,11.9,2,Online
+Ottawa,June,Hawaiian,86,Saturday,Morning,15,2.9,29,8.2,3,Phone
+Vancouver,February,BBQ Chicken,52,Thursday,Afternoon,0,1.5,49,-5.4,2,In-Person
+Toronto,February,BBQ Chicken,177,Saturday,Evening,0,2.8,40,-6.2,3,In-Person
+Vancouver,December,Veggie,93,Monday,Morning,10,3.4,36,-0.2,2,Online
+Ottawa,July,Hawaiian,101,Sunday,Night,20,3.9,57,23.4,4,Phone
+Edmonton,November,Pepperoni,186,Thursday,Night,5,2.3,50,6.9,2,Phone
+Edmonton,July,Cheese,99,Wednesday,Night,10,3.2,38,-1.4,6,Phone
+Toronto,February,Cheese,122,Wednesday,Night,20,1.4,20,24.4,3,Online
+Toronto,May,Pepperoni,142,Wednesday,Evening,20,1.8,47,4.6,1,Phone
+Calgary,December,BBQ Chicken,167,Tuesday,Evening,20,3.6,36,4.1,3,In-Person
+Calgary,November,Veggie,119,Thursday,Morning,5,1.3,33,13.5,2,Phone
+Ottawa,July,Veggie,60,Sunday,Afternoon,5,4.8,40,21.4,3,Phone
+Toronto,December,Hawaiian,120,Tuesday,Afternoon,15,3.8,25,18.3,3,In-Person
+Vancouver,February,Pepperoni,158,Tuesday,Morning,20,3.0,48,21.1,1,Online
+Ottawa,August,Hawaiian,55,Wednesday,Evening,10,4.0,47,18.9,1,Phone
+Toronto,October,Pepperoni,143,Saturday,Morning,15,1.2,20,17.8,4,In-Person
+Edmonton,December,Cheese,171,Sunday,Afternoon,20,4.3,32,26.1,6,Phone
+Vancouver,January,Veggie,104,Friday,Night,5,2.7,41,13.6,5,In-Person
+Toronto,November,Hawaiian,196,Thursday,Morning,20,4.3,22,13.7,1,In-Person
+Toronto,December,Pepperoni,134,Friday,Morning,5,4.9,37,5.9,3,In-Person
+Calgary,April,Pepperoni,117,Friday,Afternoon,10,4.8,48,-4.7,4,In-Person
+Edmonton,June,Veggie,76,Thursday,Morning,10,3.5,39,20.5,5,In-Person
+Toronto,April,Veggie,187,Wednesday,Morning,15,5.0,55,1.8,5,In-Person
+Ottawa,January,BBQ Chicken,100,Friday,Night,5,3.3,28,29.4,3,Online
+Edmonton,July,Cheese,193,Saturday,Evening,0,5.0,44,1.0,5,In-Person
+Vancouver,September,Pepperoni,126,Sunday,Evening,5,3.9,47,2.6,2,In-Person
+Ottawa,June,Veggie,96,Friday,Night,10,3.0,34,1.2,4,In-Person
+Vancouver,December,Hawaiian,164,Tuesday,Evening,0,4.8,53,-4.7,2,In-Person
+Edmonton,May,Pepperoni,145,Friday,Afternoon,0,1.5,25,12.9,4,Phone
+Edmonton,December,Veggie,175,Saturday,Night,5,4.4,41,-3.0,2,Online
+Calgary,July,Hawaiian,158,Monday,Afternoon,20,4.6,21,20.6,3,In-Person
+Calgary,November,Hawaiian,170,Sunday,Evening,15,3.0,30,19.8,2,Phone
+Calgary,September,Cheese,63,Thursday,Afternoon,15,3.1,58,20.4,1,Phone
+Vancouver,May,Hawaiian,143,Thursday,Evening,10,4.8,43,8.8,3,In-Person
+Toronto,September,Cheese,96,Sunday,Evening,5,2.9,52,-7.5,4,In-Person
+Ottawa,May,Veggie,119,Thursday,Night,10,4.9,49,-0.1,6,Phone
+Calgary,March,BBQ Chicken,145,Monday,Evening,5,1.3,24,-7.3,5,In-Person
+Calgary,August,Hawaiian,60,Monday,Afternoon,5,1.5,54,11.4,5,Online
+Ottawa,October,BBQ Chicken,83,Sunday,Morning,20,1.6,41,20.8,2,Phone
+Calgary,August,Cheese,178,Tuesday,Afternoon,10,1.1,34,17.2,5,Phone
+Ottawa,August,Veggie,189,Tuesday,Night,20,1.7,39,11.1,5,Phone
+Toronto,September,Pepperoni,156,Friday,Afternoon,5,2.6,21,-6.5,3,In-Person
+Vancouver,March,Cheese,145,Wednesday,Night,15,4.9,43,-9.5,2,Online
+Toronto,March,BBQ Chicken,192,Friday,Night,10,1.7,47,-10.0,4,Phone
+Vancouver,March,Pepperoni,124,Friday,Evening,15,4.1,59,1.4,3,In-Person
+Toronto,November,BBQ Chicken,128,Monday,Night,10,4.5,33,1.8,4,In-Person
+Vancouver,December,Pepperoni,147,Monday,Evening,10,2.4,43,20.6,5,Online
+Calgary,September,Hawaiian,124,Tuesday,Evening,15,1.4,49,-3.7,4,Phone
+Ottawa,May,Hawaiian,109,Friday,Morning,20,4.9,48,3.4,6,In-Person
+Ottawa,June,Cheese,55,Sunday,Evening,0,4.1,38,6.8,5,In-Person
+Calgary,May,Pepperoni,92,Saturday,Evening,20,1.4,57,11.0,1,In-Person
+Edmonton,August,Veggie,154,Tuesday,Afternoon,0,3.5,52,7.6,2,In-Person
+Toronto,October,BBQ Chicken,97,Monday,Evening,0,3.5,52,16.6,3,Online
+Ottawa,June,Cheese,111,Sunday,Afternoon,20,4.8,57,14.7,1,In-Person
+Calgary,November,BBQ Chicken,94,Sunday,Morning,0,2.6,57,0.7,3,Phone
+Ottawa,February,Cheese,100,Monday,Evening,5,4.5,46,1.7,6,Online
+Ottawa,July,BBQ Chicken,69,Wednesday,Morning,15,4.9,32,-2.0,5,In-Person
+Ottawa,August,Veggie,65,Monday,Evening,10,2.6,21,2.3,2,Online
+Vancouver,June,Hawaiian,86,Thursday,Morning,15,4.5,42,-6.5,6,Online
+Edmonton,December,Hawaiian,102,Friday,Evening,20,4.0,45,19.9,2,In-Person
+Edmonton,March,Pepperoni,178,Sunday,Morning,0,2.7,42,21.4,5,In-Person
+Calgary,December,BBQ Chicken,197,Tuesday,Night,5,3.3,43,10.4,5,Phone
+Ottawa,August,Hawaiian,197,Monday,Night,5,3.1,36,1.7,5,In-Person
+Ottawa,January,BBQ Chicken,105,Tuesday,Afternoon,15,3.3,58,-3.3,5,Online
+Vancouver,July,Veggie,63,Wednesday,Evening,0,4.9,41,-0.9,3,In-Person
+Edmonton,August,Hawaiian,156,Sunday,Morning,20,3.9,24,15.5,3,Online
+Edmonton,June,Hawaiian,185,Saturday,Afternoon,20,4.6,34,20.4,5,Phone
+Ottawa,December,Cheese,141,Thursday,Evening,0,4.7,43,12.6,6,Online
+Toronto,February,Hawaiian,83,Sunday,Morning,0,1.2,51,-5.2,3,Phone
+Calgary,August,Hawaiian,118,Thursday,Morning,10,4.7,33,-6.3,5,Online
+Calgary,February,Cheese,128,Wednesday,Morning,0,1.9,55,9.4,2,In-Person
+Calgary,February,BBQ Chicken,111,Wednesday,Night,0,3.9,46,1.4,4,In-Person
+Edmonton,April,Pepperoni,164,Tuesday,Afternoon,20,3.2,40,4.0,4,Phone
+Vancouver,January,Pepperoni,135,Tuesday,Afternoon,0,3.1,45,-1.5,6,In-Person
+Calgary,December,Pepperoni,67,Wednesday,Evening,5,2.4,38,-9.8,3,Phone
+Vancouver,June,Cheese,199,Saturday,Evening,20,1.6,51,3.0,5,In-Person
+Toronto,September,Pepperoni,103,Tuesday,Night,15,3.9,42,-3.6,1,Online
+Vancouver,August,Pepperoni,129,Sunday,Night,10,2.0,34,9.0,2,In-Person
+Edmonton,April,Hawaiian,106,Thursday,Night,20,2.4,24,-1.5,4,Phone
+Vancouver,February,BBQ Chicken,88,Monday,Evening,5,4.1,40,-4.4,4,Phone
+Toronto,March,Cheese,146,Monday,Night,10,2.4,58,17.7,2,In-Person
+Toronto,January,Pepperoni,126,Sunday,Afternoon,5,2.7,39,16.6,2,Phone
+Vancouver,May,Veggie,95,Wednesday,Afternoon,10,5.0,59,-4.3,1,Phone
+Calgary,February,BBQ Chicken,56,Thursday,Night,15,4.3,30,18.3,2,In-Person
+Calgary,July,Veggie,137,Saturday,Evening,15,2.6,36,5.6,3,Phone
+Vancouver,November,Pepperoni,93,Monday,Afternoon,0,3.7,37,20.6,2,In-Person
+Toronto,June,Hawaiian,53,Wednesday,Morning,5,1.2,43,-6.7,5,In-Person
+Edmonton,July,Pepperoni,136,Thursday,Evening,5,3.1,32,14.8,1,Online
+Vancouver,September,BBQ Chicken,149,Wednesday,Night,20,4.5,20,26.4,3,Online
+Vancouver,August,Hawaiian,51,Sunday,Night,5,4.5,33,10.9,4,Online
+Vancouver,March,Cheese,178,Friday,Morning,20,4.2,37,-2.0,2,In-Person
+Toronto,July,Cheese,130,Saturday,Evening,5,4.3,46,4.7,6,Online
+Toronto,August,Pepperoni,126,Tuesday,Evening,0,3.9,37,7.3,1,Phone
+Calgary,October,BBQ Chicken,139,Saturday,Afternoon,15,2.6,23,28.4,5,Online
+Edmonton,August,Veggie,124,Saturday,Afternoon,15,3.9,32,7.1,1,In-Person
+Toronto,January,Pepperoni,187,Wednesday,Evening,0,1.8,39,1.1,2,Online
+Vancouver,December,Hawaiian,129,Tuesday,Afternoon,20,3.7,45,5.1,5,In-Person
+Edmonton,December,Hawaiian,74,Monday,Morning,0,3.8,34,14.2,1,In-Person
+Vancouver,September,Hawaiian,63,Saturday,Evening,10,2.9,22,-2.4,3,In-Person
+Vancouver,November,Pepperoni,177,Tuesday,Morning,0,2.2,26,-4.2,6,In-Person
+Toronto,February,Cheese,178,Wednesday,Morning,0,2.4,58,-1.8,1,Online
+Calgary,July,Hawaiian,135,Tuesday,Evening,20,3.1,41,24.6,6,Online
+Toronto,April,Pepperoni,123,Monday,Evening,20,4.5,39,6.8,4,In-Person
+Vancouver,July,BBQ Chicken,135,Friday,Evening,5,4.2,21,1.5,6,In-Person
+Vancouver,November,Veggie,99,Tuesday,Evening,10,1.5,38,28.2,1,Phone
+Ottawa,May,Pepperoni,75,Wednesday,Evening,15,2.9,56,-2.2,3,In-Person
+Edmonton,May,Veggie,88,Wednesday,Evening,15,3.1,34,9.7,4,Online
+Toronto,February,Veggie,175,Saturday,Night,20,2.8,29,1.3,1,In-Person
+Edmonton,October,Veggie,54,Tuesday,Morning,20,3.8,33,23.6,1,Online
+Edmonton,January,BBQ Chicken,106,Saturday,Evening,0,3.4,27,-1.9,1,In-Person
+Calgary,June,Pepperoni,197,Saturday,Morning,5,2.6,29,27.9,1,Phone
+Toronto,October,Cheese,117,Saturday,Afternoon,0,4.5,41,15.8,1,In-Person
+Ottawa,June,Cheese,99,Monday,Afternoon,5,1.7,52,28.6,1,Phone
+Ottawa,January,Hawaiian,159,Friday,Evening,5,1.3,52,10.3,5,In-Person
+Edmonton,May,Cheese,158,Wednesday,Evening,20,3.1,46,-1.2,3,Online
+Calgary,April,BBQ Chicken,192,Monday,Evening,15,3.8,40,17.7,6,Online
+Toronto,December,Veggie,103,Sunday,Night,15,2.4,25,12.8,1,Online
+Calgary,May,Veggie,155,Tuesday,Morning,5,3.7,41,7.2,4,Online
+Calgary,December,Veggie,135,Sunday,Afternoon,20,3.5,33,9.6,5,Online
+Edmonton,May,BBQ Chicken,79,Monday,Morning,10,1.6,36,21.6,5,Phone
+Ottawa,June,Veggie,109,Monday,Evening,15,5.0,23,9.8,6,Phone
+Ottawa,December,Veggie,88,Wednesday,Night,0,4.9,32,0.3,6,Online
+Toronto,April,Hawaiian,76,Monday,Night,15,2.5,54,30.0,1,In-Person
+Ottawa,November,BBQ Chicken,55,Monday,Afternoon,0,2.4,46,22.6,1,In-Person
+Vancouver,May,Veggie,64,Wednesday,Evening,10,2.3,53,-7.3,2,Phone
+Ottawa,May,BBQ Chicken,127,Monday,Afternoon,5,4.1,32,20.0,6,Phone
+Calgary,May,Pepperoni,133,Thursday,Afternoon,0,1.0,46,14.5,2,Online
+Ottawa,September,Pepperoni,134,Saturday,Night,0,3.4,26,-9.2,4,Phone
+Vancouver,June,BBQ Chicken,60,Wednesday,Night,10,2.9,35,5.2,1,In-Person
+Ottawa,April,Cheese,142,Saturday,Afternoon,15,4.4,21,21.5,5,In-Person
+Calgary,August,Pepperoni,81,Saturday,Afternoon,15,3.5,45,-4.1,5,In-Person
+Ottawa,February,BBQ Chicken,107,Monday,Morning,10,1.9,29,15.7,4,In-Person
+Toronto,December,Cheese,182,Thursday,Morning,0,3.2,31,25.4,2,In-Person
+Calgary,July,BBQ Chicken,80,Saturday,Evening,20,2.6,21,19.1,2,Phone
+Toronto,January,Veggie,83,Saturday,Morning,5,1.3,23,27.1,3,In-Person
+Ottawa,December,Veggie,125,Saturday,Evening,15,4.6,50,10.5,4,Online
+Toronto,November,Pepperoni,171,Monday,Evening,5,4.8,51,21.8,5,Phone
+Toronto,September,Hawaiian,71,Saturday,Morning,0,4.0,57,19.5,2,Online
+Edmonton,June,Cheese,168,Monday,Night,15,2.7,58,10.2,5,Phone
+Ottawa,June,Cheese,75,Tuesday,Morning,10,3.6,39,22.7,3,Online
+Vancouver,July,Cheese,63,Tuesday,Evening,15,3.7,29,17.6,2,Phone
+Edmonton,September,BBQ Chicken,197,Thursday,Afternoon,0,1.2,46,17.4,5,In-Person
+Vancouver,June,Pepperoni,89,Thursday,Night,5,4.3,25,6.4,5,In-Person
+Calgary,December,Pepperoni,112,Thursday,Night,10,3.2,54,-0.6,1,Phone
+Ottawa,November,Hawaiian,64,Monday,Evening,15,4.8,35,11.6,5,Phone
+Toronto,December,Pepperoni,187,Monday,Night,20,1.2,36,17.3,4,In-Person
+Vancouver,October,Cheese,121,Sunday,Afternoon,15,4.5,56,14.6,2,Online
+Toronto,September,BBQ Chicken,134,Friday,Afternoon,0,4.0,46,-0.9,4,In-Person
+Edmonton,May,Cheese,117,Tuesday,Evening,20,3.4,47,0.8,4,Phone
+Toronto,December,Hawaiian,144,Tuesday,Night,15,3.5,55,1.2,6,Phone
+Toronto,September,Pepperoni,118,Saturday,Night,10,1.1,47,17.3,6,Phone
+Toronto,December,Cheese,109,Monday,Night,5,1.4,58,-0.6,2,Online
+Edmonton,May,Hawaiian,111,Wednesday,Afternoon,20,2.1,41,12.7,6,Online
+Ottawa,December,Veggie,50,Friday,Afternoon,5,4.0,54,14.2,4,In-Person
+Ottawa,February,Cheese,102,Friday,Night,5,2.9,46,6.2,3,In-Person
+Toronto,September,Hawaiian,132,Saturday,Afternoon,20,4.9,21,24.5,2,Phone
+Toronto,May,Pepperoni,184,Friday,Morning,10,2.8,44,25.8,1,Phone
+Vancouver,February,Cheese,88,Monday,Evening,20,3.5,50,-7.9,5,In-Person
+Ottawa,October,Cheese,106,Friday,Evening,10,4.1,44,18.7,6,Online
+Ottawa,October,BBQ Chicken,140,Monday,Evening,10,2.2,26,6.4,2,Phone
+Vancouver,December,Pepperoni,78,Tuesday,Evening,15,1.0,34,-1.7,4,Phone
+Calgary,July,Veggie,82,Thursday,Morning,20,3.9,47,3.1,6,Online
+Toronto,October,Veggie,108,Wednesday,Evening,20,4.5,56,5.7,2,Online
+Edmonton,February,Cheese,128,Sunday,Evening,20,3.2,42,22.0,5,In-Person
+Toronto,February,Veggie,176,Tuesday,Afternoon,0,2.1,54,-6.3,2,In-Person
+Vancouver,September,Hawaiian,177,Sunday,Night,20,3.9,56,21.6,4,Phone
+Toronto,July,BBQ Chicken,67,Thursday,Evening,5,4.1,24,26.4,6,In-Person
+Ottawa,February,Hawaiian,178,Monday,Morning,5,2.1,31,6.4,1,Phone
+Edmonton,October,BBQ Chicken,140,Thursday,Night,10,2.9,38,21.5,2,In-Person
+Vancouver,June,Cheese,103,Monday,Night,20,4.0,32,15.1,6,Online
+Edmonton,February,Hawaiian,112,Tuesday,Afternoon,0,4.9,34,19.8,6,Phone
+Edmonton,October,Cheese,117,Tuesday,Afternoon,10,4.2,49,24.2,6,Online
+Ottawa,May,Hawaiian,180,Sunday,Evening,15,1.7,28,-9.7,3,Phone
+Toronto,May,Pepperoni,113,Friday,Night,5,1.1,53,5.8,2,In-Person
+Calgary,January,Pepperoni,115,Sunday,Evening,20,2.1,55,-7.5,1,Online
+Edmonton,September,Cheese,63,Monday,Night,10,3.1,48,1.4,3,In-Person
+Edmonton,June,BBQ Chicken,164,Tuesday,Afternoon,5,4.5,54,6.7,1,Phone
+Vancouver,February,Hawaiian,116,Saturday,Night,10,1.9,53,25.5,1,Phone
+Edmonton,June,Hawaiian,153,Sunday,Night,10,1.9,26,24.3,3,Online
+Calgary,October,Pepperoni,164,Thursday,Night,10,3.4,38,10.2,4,Online
+Vancouver,November,Cheese,142,Saturday,Evening,15,2.1,38,1.5,5,In-Person
+Vancouver,May,Cheese,97,Monday,Night,20,4.5,45,11.4,6,In-Person
+Ottawa,December,Cheese,103,Thursday,Morning,15,3.8,42,-4.5,2,In-Person
+Toronto,February,Hawaiian,196,Thursday,Afternoon,0,1.4,57,27.9,5,In-Person
+Edmonton,April,Hawaiian,70,Wednesday,Morning,5,1.1,27,-9.9,4,Phone
+Ottawa,June,Pepperoni,104,Sunday,Evening,5,1.7,48,9.1,5,Phone
+Vancouver,September,BBQ Chicken,76,Tuesday,Night,5,3.1,29,7.4,6,In-Person
+Toronto,November,BBQ Chicken,167,Wednesday,Afternoon,5,4.9,23,6.7,3,In-Person
+Toronto,July,BBQ Chicken,188,Sunday,Afternoon,0,3.3,34,8.8,4,Online
+Ottawa,April,Veggie,139,Wednesday,Evening,0,3.6,53,20.3,4,Phone
+Ottawa,April,Hawaiian,104,Sunday,Night,20,2.2,48,-5.5,3,In-Person
+Edmonton,March,Cheese,198,Friday,Afternoon,20,4.7,24,26.6,1,Online
+Vancouver,January,Pepperoni,196,Monday,Evening,10,3.5,49,5.3,6,Phone
+Calgary,June,Pepperoni,125,Friday,Night,15,2.3,42,22.7,4,Phone
+Calgary,November,Veggie,138,Friday,Afternoon,20,2.0,39,4.0,5,Online
+Calgary,August,Pepperoni,197,Friday,Evening,15,1.9,39,9.3,2,Phone
+Ottawa,August,Hawaiian,114,Friday,Afternoon,0,4.9,57,14.1,2,In-Person
+Vancouver,October,Cheese,161,Friday,Morning,20,1.4,26,14.1,2,Phone
+Calgary,June,Hawaiian,112,Saturday,Afternoon,20,4.3,23,-0.5,6,In-Person
+Vancouver,November,Pepperoni,58,Tuesday,Night,15,3.9,23,-8.6,3,Phone
+Ottawa,September,Pepperoni,67,Friday,Night,0,1.1,51,25.9,2,Phone
+Toronto,February,Cheese,199,Thursday,Evening,10,4.8,23,5.9,4,In-Person
+Edmonton,December,Pepperoni,93,Saturday,Morning,5,2.3,46,8.1,2,Phone
+Ottawa,September,Pepperoni,186,Friday,Morning,5,4.7,34,0.7,1,In-Person
+Edmonton,January,Veggie,131,Tuesday,Morning,0,2.7,55,10.3,1,Online
+Toronto,September,Cheese,176,Sunday,Night,15,2.5,23,27.6,5,In-Person
+Edmonton,August,BBQ Chicken,166,Wednesday,Night,0,1.3,22,13.1,6,In-Person
+Ottawa,February,Cheese,157,Tuesday,Evening,20,4.5,57,8.3,1,Phone
+Edmonton,January,BBQ Chicken,74,Tuesday,Evening,20,4.7,36,-2.8,3,Online
+Ottawa,January,Hawaiian,90,Thursday,Morning,0,3.7,41,28.9,2,In-Person
+Edmonton,September,Cheese,102,Thursday,Night,15,3.1,55,25.7,5,In-Person
+Toronto,October,Veggie,172,Tuesday,Night,20,2.7,34,-6.4,4,In-Person
+Edmonton,February,BBQ Chicken,54,Sunday,Afternoon,20,1.3,40,29.4,2,In-Person
+Ottawa,September,Veggie,119,Tuesday,Night,15,3.9,52,-9.5,4,Online
+Toronto,September,BBQ Chicken,54,Sunday,Morning,5,4.9,52,15.1,1,Phone
+Edmonton,June,Hawaiian,127,Wednesday,Night,10,1.5,42,9.7,6,In-Person
+Ottawa,December,Pepperoni,90,Wednesday,Night,10,4.1,38,13.1,5,Phone
+Edmonton,November,Hawaiian,182,Thursday,Afternoon,20,1.4,21,14.1,3,Online
+Ottawa,June,BBQ Chicken,90,Friday,Morning,10,2.1,37,-2.3,2,Phone
+Calgary,October,Veggie,194,Saturday,Evening,20,4.0,24,-5.3,6,In-Person
+Ottawa,April,BBQ Chicken,120,Wednesday,Night,0,2.7,26,11.5,5,In-Person
+Vancouver,May,Pepperoni,116,Wednesday,Morning,15,1.2,32,10.2,6,Phone
+Edmonton,January,Hawaiian,51,Sunday,Evening,15,1.5,57,7.5,3,Phone
+Toronto,September,Veggie,80,Wednesday,Afternoon,20,2.7,22,21.9,3,Phone
+Calgary,July,Cheese,86,Monday,Afternoon,10,1.1,25,21.7,4,Online
+Ottawa,July,Hawaiian,62,Saturday,Morning,0,3.3,48,-5.0,5,Online
+Edmonton,March,Veggie,151,Friday,Morning,20,1.8,52,-4.8,5,In-Person
+Vancouver,July,Cheese,163,Tuesday,Afternoon,20,3.3,45,-7.5,6,In-Person
+Edmonton,August,BBQ Chicken,141,Saturday,Afternoon,0,2.8,29,6.5,5,Phone
+Calgary,March,BBQ Chicken,172,Tuesday,Morning,20,4.2,56,-4.5,1,In-Person
+Ottawa,September,Hawaiian,185,Monday,Morning,5,3.8,42,14.9,3,Online
+Vancouver,March,Hawaiian,83,Sunday,Afternoon,10,2.2,33,22.6,1,Phone
+Toronto,March,BBQ Chicken,126,Monday,Afternoon,10,2.2,27,15.3,5,Online
+Edmonton,February,Veggie,73,Monday,Night,15,1.2,24,25.2,1,In-Person
+Vancouver,February,Veggie,82,Tuesday,Evening,10,4.8,53,-2.1,6,In-Person
+Ottawa,February,Pepperoni,170,Friday,Afternoon,15,4.5,21,17.6,1,Online
+Ottawa,November,BBQ Chicken,198,Saturday,Morning,0,4.9,48,2.3,4,Online
+Vancouver,May,Cheese,198,Wednesday,Morning,10,3.7,40,6.3,1,In-Person
+Toronto,December,Pepperoni,146,Saturday,Evening,15,4.3,49,18.0,6,In-Person
+Toronto,June,Veggie,164,Friday,Morning,15,4.3,39,1.5,4,In-Person
+Toronto,February,Hawaiian,174,Friday,Evening,0,3.5,21,-7.4,6,In-Person
+Calgary,September,BBQ Chicken,140,Tuesday,Morning,0,4.3,48,30.0,3,Phone
+Ottawa,April,Pepperoni,155,Tuesday,Evening,5,2.6,24,14.3,5,Phone
+Ottawa,October,BBQ Chicken,85,Monday,Night,10,1.2,45,28.9,6,Online
+Toronto,July,BBQ Chicken,62,Wednesday,Night,15,2.0,32,-0.1,2,Online
+Vancouver,May,Veggie,87,Tuesday,Afternoon,20,1.5,53,10.7,2,Online
+Vancouver,April,Pepperoni,145,Friday,Night,10,4.0,50,27.0,6,Phone
+Vancouver,November,Veggie,153,Tuesday,Evening,0,1.3,49,10.0,3,In-Person
+Vancouver,October,Veggie,82,Monday,Evening,5,5.0,46,24.7,3,Online
+Vancouver,September,Cheese,127,Tuesday,Afternoon,5,4.1,31,-5.4,4,In-Person
+Vancouver,April,Veggie,55,Thursday,Evening,15,1.0,21,27.8,3,Online
+Toronto,August,Pepperoni,147,Tuesday,Night,5,3.4,28,24.2,6,Online
+Vancouver,January,Hawaiian,160,Friday,Morning,15,2.3,32,-9.2,5,Online
+Toronto,September,Cheese,185,Wednesday,Afternoon,20,2.7,46,6.9,4,Online
+Calgary,May,Hawaiian,126,Thursday,Morning,10,4.1,32,23.3,1,Phone
+Ottawa,September,Veggie,92,Wednesday,Afternoon,5,2.7,54,29.9,5,Phone
+Edmonton,February,Pepperoni,58,Tuesday,Afternoon,10,4.2,32,18.5,2,Online
+Toronto,March,Cheese,104,Monday,Morning,10,1.2,58,21.0,6,Online
+Toronto,May,Pepperoni,177,Thursday,Night,0,2.3,30,5.6,1,Online
+Calgary,December,Pepperoni,171,Saturday,Evening,0,1.7,28,29.3,3,Online
+Edmonton,November,Veggie,181,Monday,Morning,0,2.7,28,-9.5,6,Online
+Toronto,October,Pepperoni,113,Sunday,Evening,5,3.3,44,-3.6,6,Online
+Edmonton,February,Hawaiian,93,Saturday,Morning,10,2.4,44,-6.5,6,In-Person
+Toronto,December,Veggie,99,Saturday,Night,5,2.8,28,14.7,5,Phone
+Toronto,June,Veggie,187,Sunday,Morning,20,3.7,43,1.9,2,Online
+Edmonton,August,Pepperoni,132,Thursday,Morning,15,2.1,52,27.6,1,Online
+Toronto,October,BBQ Chicken,70,Tuesday,Evening,5,4.8,53,-0.8,1,Online
+Toronto,August,Veggie,128,Tuesday,Evening,20,2.4,58,-5.9,5,In-Person
+Vancouver,December,BBQ Chicken,55,Saturday,Morning,5,4.8,58,-8.7,3,Phone
+Calgary,November,Hawaiian,104,Tuesday,Morning,10,2.1,40,5.2,2,Online
+Toronto,January,Cheese,53,Friday,Afternoon,15,3.7,34,-8.6,2,Phone
+Calgary,November,Veggie,195,Sunday,Morning,0,1.0,24,-1.3,3,Phone
+Ottawa,May,Pepperoni,84,Friday,Night,15,1.1,43,21.7,6,In-Person
+Ottawa,March,BBQ Chicken,89,Wednesday,Evening,20,4.6,30,18.7,2,Online
+Ottawa,November,Pepperoni,74,Sunday,Night,10,1.4,27,0.9,4,In-Person
+Calgary,August,Pepperoni,80,Monday,Afternoon,0,4.5,23,2.5,4,Phone
+Vancouver,November,Cheese,188,Wednesday,Morning,5,3.1,22,5.6,1,Online
+Edmonton,November,Hawaiian,118,Friday,Afternoon,20,1.9,27,-7.9,5,Online
+Ottawa,October,BBQ Chicken,96,Monday,Afternoon,15,3.3,57,-8.5,2,Online
+Vancouver,November,BBQ Chicken,159,Wednesday,Afternoon,20,1.6,47,18.9,5,Online
+Ottawa,September,Hawaiian,138,Sunday,Evening,15,1.9,25,25.8,2,Online
+Ottawa,October,Pepperoni,175,Wednesday,Evening,10,3.7,51,-8.8,5,Phone
+Vancouver,October,Cheese,181,Friday,Evening,0,3.3,55,-5.6,1,Phone
+Calgary,October,Cheese,71,Friday,Evening,20,1.1,58,11.9,3,Phone
+Vancouver,January,BBQ Chicken,53,Monday,Afternoon,0,3.5,30,7.1,6,In-Person
+Toronto,March,Cheese,120,Thursday,Night,20,4.1,54,16.4,3,Phone
+Vancouver,December,Hawaiian,175,Thursday,Afternoon,5,1.8,57,-9.8,3,In-Person
+Toronto,July,BBQ Chicken,175,Thursday,Night,0,3.7,59,14.5,5,Phone
+Ottawa,February,Pepperoni,167,Tuesday,Morning,5,3.5,51,15.3,1,Phone
+Vancouver,April,Veggie,62,Wednesday,Morning,20,2.5,25,16.2,6,Phone
+Calgary,October,BBQ Chicken,83,Monday,Evening,15,4.5,37,-5.4,1,Online
+Edmonton,May,BBQ Chicken,89,Friday,Morning,20,5.0,37,-10.0,5,In-Person
+Vancouver,August,Hawaiian,84,Tuesday,Morning,10,4.0,23,14.3,1,Phone
+Ottawa,June,Hawaiian,123,Sunday,Morning,20,2.4,52,0.9,6,Phone
+Calgary,October,Cheese,185,Friday,Night,0,4.0,40,1.1,3,Online
+Ottawa,June,Veggie,186,Tuesday,Morning,0,2.8,57,-0.3,1,Online
+Toronto,December,Pepperoni,83,Tuesday,Morning,15,1.5,53,-8.7,5,Online
+Edmonton,December,Hawaiian,93,Friday,Evening,20,4.6,28,3.4,1,In-Person
+Ottawa,April,BBQ Chicken,108,Wednesday,Morning,5,3.0,27,-9.9,4,In-Person
+Vancouver,March,Pepperoni,174,Sunday,Night,20,1.4,48,25.7,2,Phone
+Vancouver,April,Pepperoni,188,Sunday,Evening,15,2.6,50,20.5,1,In-Person
+Toronto,February,Cheese,67,Sunday,Evening,20,2.2,58,12.1,6,Phone
+Ottawa,January,BBQ Chicken,109,Sunday,Evening,15,2.6,42,22.6,1,Online
+Calgary,June,Hawaiian,146,Saturday,Afternoon,5,2.8,59,2.9,4,Phone
+Edmonton,February,Veggie,56,Monday,Evening,5,2.4,47,29.5,6,Online
+Vancouver,July,Cheese,93,Saturday,Morning,20,3.5,40,1.0,2,Online
+Toronto,May,Veggie,186,Wednesday,Morning,0,4.0,39,16.7,6,Online
+Calgary,March,Cheese,79,Tuesday,Afternoon,15,1.7,50,17.7,1,Phone
+Edmonton,May,Cheese,78,Friday,Night,5,4.5,58,25.2,6,In-Person
+Toronto,August,Pepperoni,117,Saturday,Evening,10,2.8,50,26.3,1,Online
+Edmonton,July,BBQ Chicken,119,Saturday,Afternoon,0,2.3,53,18.9,5,In-Person
+Toronto,February,BBQ Chicken,124,Sunday,Evening,15,1.7,26,18.1,2,Phone
+Ottawa,February,BBQ Chicken,105,Saturday,Evening,20,3.2,41,5.3,6,Phone
+Toronto,August,Veggie,60,Thursday,Morning,20,1.9,38,27.5,6,Online
+Ottawa,February,BBQ Chicken,62,Wednesday,Afternoon,0,4.5,49,-5.5,1,Phone
+Calgary,April,Cheese,143,Wednesday,Morning,5,2.4,36,18.6,3,Phone
+Vancouver,November,BBQ Chicken,77,Friday,Afternoon,5,4.3,40,19.0,6,Phone
+Toronto,April,Cheese,136,Thursday,Evening,20,4.4,51,29.8,4,In-Person
+Ottawa,April,BBQ Chicken,113,Monday,Afternoon,15,2.7,31,17.1,4,Phone
+Edmonton,March,Cheese,176,Wednesday,Afternoon,0,4.8,50,6.0,1,In-Person
+Calgary,September,BBQ Chicken,100,Monday,Night,5,3.8,44,17.4,1,In-Person
+Calgary,July,Hawaiian,198,Saturday,Night,20,1.2,58,5.1,6,In-Person
+Toronto,July,Pepperoni,85,Sunday,Afternoon,20,2.7,24,-4.3,2,Online
+Calgary,March,Hawaiian,60,Thursday,Night,20,3.3,30,5.9,2,In-Person
+Edmonton,September,Pepperoni,147,Tuesday,Night,0,2.4,53,-1.5,1,Online
+Calgary,October,Veggie,68,Sunday,Afternoon,20,3.2,28,0.8,5,Online
+Toronto,September,Hawaiian,191,Friday,Night,10,1.6,50,-3.5,3,Online
+Vancouver,July,BBQ Chicken,129,Monday,Afternoon,5,4.4,53,8.4,1,In-Person
+Toronto,July,Cheese,190,Tuesday,Morning,5,4.2,36,-4.6,4,Phone
+Edmonton,May,BBQ Chicken,183,Friday,Evening,20,4.4,55,26.9,4,In-Person
+Calgary,May,BBQ Chicken,59,Monday,Afternoon,10,2.6,50,14.6,2,Online
+Edmonton,July,Hawaiian,90,Saturday,Evening,20,3.1,28,13.1,2,In-Person
+Calgary,September,Hawaiian,124,Wednesday,Evening,10,2.3,27,5.7,4,In-Person
+Toronto,October,BBQ Chicken,115,Wednesday,Afternoon,20,4.6,20,2.3,5,Online
+Calgary,January,Veggie,199,Thursday,Afternoon,10,1.3,52,18.2,4,In-Person
+Vancouver,March,BBQ Chicken,147,Saturday,Evening,0,1.6,45,2.6,1,In-Person
+Toronto,November,Pepperoni,190,Sunday,Morning,15,1.8,52,6.9,6,In-Person
+Ottawa,September,Hawaiian,197,Saturday,Night,0,1.9,46,18.1,1,In-Person
+Edmonton,October,Pepperoni,154,Monday,Evening,10,2.4,41,23.6,3,In-Person
+Ottawa,February,BBQ Chicken,130,Friday,Afternoon,5,2.7,23,-5.1,1,In-Person
+Vancouver,April,BBQ Chicken,195,Tuesday,Night,20,4.6,42,6.8,1,Phone
+Ottawa,March,Hawaiian,140,Sunday,Morning,20,3.0,23,22.7,2,In-Person
+Edmonton,November,Hawaiian,92,Monday,Morning,10,2.8,52,12.4,2,Online
+Vancouver,January,Pepperoni,199,Tuesday,Evening,20,1.2,52,7.4,1,Online
+Toronto,July,Hawaiian,156,Monday,Afternoon,20,2.1,41,12.1,6,In-Person
+Toronto,December,Pepperoni,81,Friday,Afternoon,5,4.9,41,20.4,4,In-Person
+Edmonton,May,BBQ Chicken,84,Sunday,Night,0,2.3,59,26.0,6,In-Person
+Calgary,August,Pepperoni,117,Monday,Night,15,4.8,56,21.7,5,Phone
+Vancouver,June,Cheese,144,Wednesday,Afternoon,10,2.2,34,14.9,4,Phone
+Ottawa,April,Veggie,72,Tuesday,Night,10,1.4,37,-9.8,3,Phone
+Ottawa,November,Veggie,140,Friday,Evening,20,1.0,38,-5.2,1,In-Person
+Vancouver,November,BBQ Chicken,75,Sunday,Evening,20,1.0,48,21.5,2,Phone
+Ottawa,December,Cheese,107,Thursday,Morning,10,3.5,55,28.0,1,In-Person
+Vancouver,May,Hawaiian,89,Thursday,Night,10,3.5,24,28.2,4,In-Person
+Ottawa,November,Cheese,59,Sunday,Afternoon,0,3.3,59,12.7,6,Online
+Vancouver,May,Hawaiian,54,Sunday,Afternoon,10,2.1,41,-4.9,3,In-Person
+Vancouver,October,Cheese,191,Tuesday,Night,5,3.9,58,25.8,4,Phone
+Toronto,August,BBQ Chicken,52,Sunday,Morning,15,4.5,20,11.4,5,In-Person
+Vancouver,September,Pepperoni,50,Sunday,Night,20,1.8,37,-9.3,5,Phone
+Toronto,June,Hawaiian,94,Monday,Morning,0,2.2,38,12.9,5,Phone
+Toronto,June,Cheese,130,Friday,Night,0,2.2,33,15.4,1,In-Person
+Toronto,December,Hawaiian,172,Friday,Night,20,2.0,39,-4.0,3,Phone
+Toronto,January,Pepperoni,84,Friday,Morning,5,4.9,30,11.4,6,Phone
+Vancouver,May,Pepperoni,88,Saturday,Morning,20,1.1,50,8.6,3,In-Person
+Calgary,April,Veggie,152,Saturday,Evening,0,4.8,38,6.4,3,Phone
+Calgary,September,Pepperoni,176,Wednesday,Night,10,4.5,41,-2.0,5,In-Person
+Toronto,January,Cheese,74,Friday,Afternoon,5,2.7,38,-4.6,1,Online
+Toronto,October,Veggie,68,Wednesday,Evening,20,4.3,35,1.0,4,Online
+Toronto,July,Cheese,150,Wednesday,Morning,10,1.6,47,-3.2,3,Phone
+Toronto,September,Cheese,70,Thursday,Morning,5,3.9,58,16.3,4,Online
+Vancouver,April,Pepperoni,162,Monday,Morning,0,2.0,20,25.4,1,Online
+Ottawa,February,BBQ Chicken,158,Friday,Afternoon,20,3.9,23,13.0,4,In-Person
+Calgary,May,Cheese,135,Saturday,Afternoon,15,3.7,26,25.7,2,In-Person
+Ottawa,June,Hawaiian,199,Monday,Morning,10,2.5,42,-1.9,5,Phone
+Edmonton,December,BBQ Chicken,60,Thursday,Afternoon,10,4.3,27,9.6,3,In-Person
+Vancouver,April,Veggie,59,Saturday,Evening,15,4.2,57,-5.4,2,Phone
+Calgary,April,Cheese,74,Wednesday,Afternoon,5,1.0,30,12.1,6,Phone
+Edmonton,August,Pepperoni,117,Monday,Afternoon,5,1.9,34,18.4,3,In-Person
+Calgary,December,Cheese,132,Sunday,Evening,10,3.3,23,22.4,3,In-Person
+Edmonton,November,Cheese,127,Thursday,Night,0,1.2,46,13.5,2,Online
+Calgary,July,Cheese,174,Wednesday,Evening,0,2.5,37,22.5,5,Phone
+Toronto,March,Hawaiian,93,Saturday,Morning,5,2.2,40,2.5,6,In-Person
+Toronto,August,Hawaiian,110,Tuesday,Evening,15,3.6,32,12.6,2,Phone
+Toronto,November,Cheese,97,Sunday,Night,0,4.8,30,16.6,3,Phone
+Ottawa,May,Pepperoni,120,Monday,Evening,20,2.5,22,11.7,5,In-Person
+Calgary,August,Veggie,155,Wednesday,Morning,0,3.8,57,22.5,2,Online
+Edmonton,August,Pepperoni,103,Monday,Night,15,2.3,46,3.0,4,In-Person
+Toronto,March,Veggie,143,Sunday,Night,10,4.3,25,10.3,4,Online
+Ottawa,July,BBQ Chicken,102,Sunday,Afternoon,0,1.7,46,-0.8,3,Online
+Edmonton,June,Veggie,80,Wednesday,Afternoon,15,3.9,21,9.8,5,Online
+Toronto,May,Veggie,56,Saturday,Morning,10,2.7,50,17.9,5,In-Person
+Ottawa,June,Hawaiian,150,Friday,Night,0,4.7,26,-2.0,2,Online
+Calgary,August,Hawaiian,115,Saturday,Afternoon,15,2.4,50,18.9,6,Online
+Toronto,April,Hawaiian,87,Monday,Morning,15,4.1,36,15.2,2,In-Person
+Vancouver,November,Cheese,80,Saturday,Evening,0,2.9,45,26.0,4,In-Person
+Calgary,March,Pepperoni,74,Saturday,Evening,15,3.5,32,11.4,1,Phone
+Vancouver,September,Hawaiian,157,Saturday,Morning,15,2.4,45,2.3,6,In-Person
+Vancouver,June,Cheese,115,Monday,Morning,20,1.1,23,28.3,4,Phone
+Ottawa,July,BBQ Chicken,85,Sunday,Evening,15,1.7,30,-1.0,3,In-Person
+Calgary,July,Pepperoni,177,Saturday,Night,15,4.5,52,7.3,3,Online
+Edmonton,August,Veggie,78,Thursday,Evening,10,1.0,24,29.6,2,Online
+Ottawa,October,Veggie,146,Thursday,Evening,0,4.6,31,29.3,1,Phone
+Ottawa,November,BBQ Chicken,194,Tuesday,Night,20,2.5,26,13.2,1,In-Person
+Vancouver,January,Cheese,60,Friday,Morning,15,4.7,54,29.4,3,Phone
+Calgary,January,Cheese,103,Thursday,Evening,5,1.5,21,25.1,3,Online
+Vancouver,October,Cheese,52,Sunday,Morning,5,1.0,28,13.4,5,Online
+Vancouver,November,Cheese,198,Tuesday,Afternoon,0,2.6,43,-3.4,3,Phone
+Ottawa,December,BBQ Chicken,164,Sunday,Afternoon,5,3.5,26,7.0,2,Phone
+Edmonton,April,Hawaiian,171,Saturday,Afternoon,10,4.0,57,22.8,2,Phone
+Vancouver,July,Veggie,50,Saturday,Night,5,1.1,30,4.3,2,In-Person
+Ottawa,September,BBQ Chicken,80,Monday,Night,15,3.4,45,8.0,5,In-Person
+Ottawa,October,BBQ Chicken,163,Wednesday,Evening,20,1.6,32,-6.9,4,In-Person
+Edmonton,May,Veggie,108,Thursday,Evening,0,3.0,43,-4.8,6,In-Person
+Ottawa,September,BBQ Chicken,76,Monday,Night,15,4.9,55,-6.8,1,In-Person
+Edmonton,April,Hawaiian,143,Wednesday,Morning,5,3.9,50,-8.2,3,Online
+Vancouver,March,Cheese,145,Monday,Night,0,2.8,57,-2.5,2,In-Person
+Ottawa,April,Pepperoni,107,Friday,Evening,20,3.4,21,9.7,1,Online
+Vancouver,October,Cheese,199,Sunday,Morning,20,3.2,56,24.2,5,Online
+Edmonton,February,Pepperoni,113,Thursday,Night,5,2.6,53,24.5,4,Phone
+Toronto,April,Cheese,188,Saturday,Morning,10,1.7,21,10.4,3,In-Person
+Ottawa,January,Cheese,93,Tuesday,Morning,20,2.0,59,18.1,4,Phone
+Edmonton,January,Hawaiian,164,Saturday,Morning,5,4.4,39,4.7,4,In-Person
+Edmonton,November,Cheese,163,Saturday,Evening,15,2.5,55,1.1,5,Phone
+Toronto,December,Pepperoni,92,Friday,Night,10,3.8,34,22.2,1,In-Person
+Edmonton,April,Hawaiian,191,Saturday,Afternoon,20,4.8,20,24.4,5,In-Person
+Ottawa,December,Hawaiian,87,Saturday,Night,15,3.0,59,-3.8,1,Phone
+Calgary,October,Hawaiian,123,Friday,Evening,10,3.0,52,8.2,5,Online
+Toronto,August,Pepperoni,175,Wednesday,Afternoon,20,3.8,48,28.6,5,Online
+Calgary,September,Veggie,192,Saturday,Evening,10,2.6,59,-4.9,6,Phone
+Edmonton,October,Veggie,95,Monday,Night,20,2.8,31,18.9,5,In-Person
+Toronto,May,Veggie,154,Wednesday,Morning,20,2.8,30,-0.2,5,In-Person
+Calgary,January,Veggie,169,Saturday,Afternoon,20,4.0,46,10.6,4,Online
+Ottawa,January,Pepperoni,66,Tuesday,Afternoon,10,1.3,33,-5.7,3,In-Person
+Calgary,February,Pepperoni,89,Saturday,Morning,15,3.7,58,26.0,3,Online
+Vancouver,December,BBQ Chicken,144,Monday,Afternoon,10,1.0,59,22.2,6,In-Person
+Vancouver,October,Hawaiian,89,Friday,Night,10,2.0,20,19.3,3,In-Person
+Calgary,May,BBQ Chicken,124,Saturday,Evening,0,2.5,45,-1.2,4,In-Person
+Ottawa,December,Veggie,149,Tuesday,Night,0,3.0,45,-5.3,1,In-Person
+Toronto,August,BBQ Chicken,159,Saturday,Morning,10,3.9,56,-8.8,1,Phone
+Toronto,October,Veggie,105,Tuesday,Evening,5,1.8,50,21.6,1,Online
+Ottawa,January,Hawaiian,98,Sunday,Night,15,4.1,56,2.1,3,Phone
+Edmonton,March,Pepperoni,62,Wednesday,Evening,0,2.9,53,27.7,5,Online
+Vancouver,November,Pepperoni,183,Saturday,Evening,10,1.6,25,11.1,4,In-Person
+Calgary,October,Veggie,176,Thursday,Evening,20,5.0,25,7.5,5,In-Person
+Toronto,June,Pepperoni,191,Thursday,Afternoon,0,4.0,32,28.9,5,Online
+Calgary,April,Pepperoni,167,Saturday,Afternoon,15,4.5,24,8.7,3,In-Person
+Vancouver,March,Hawaiian,118,Wednesday,Evening,0,3.8,58,19.1,3,In-Person
+Calgary,February,Hawaiian,193,Sunday,Afternoon,10,4.6,42,9.2,6,Online
+Ottawa,June,Pepperoni,116,Tuesday,Night,5,4.6,57,4.5,3,Online
+Edmonton,May,BBQ Chicken,52,Monday,Afternoon,10,4.4,37,-7.6,6,Phone
+Toronto,April,Cheese,56,Thursday,Evening,20,3.4,21,4.9,1,In-Person
+Toronto,May,Cheese,148,Friday,Afternoon,20,2.5,27,27.7,3,Online
+Ottawa,August,Veggie,104,Wednesday,Afternoon,0,3.0,48,9.5,6,In-Person
+Ottawa,November,Hawaiian,193,Friday,Evening,15,4.3,53,17.6,1,Phone
+Ottawa,April,Hawaiian,124,Monday,Night,10,2.6,34,-1.3,4,Online
+Edmonton,November,Cheese,114,Saturday,Night,5,2.0,23,13.8,3,In-Person
+Ottawa,September,Veggie,131,Saturday,Night,0,4.7,51,-9.7,4,Phone
+Edmonton,May,Cheese,175,Friday,Afternoon,20,2.0,38,7.8,1,In-Person
+Toronto,November,Veggie,117,Saturday,Afternoon,20,3.4,35,26.5,4,Phone
+Calgary,May,Pepperoni,177,Thursday,Morning,20,3.5,27,1.1,2,Online
+Edmonton,June,Pepperoni,138,Saturday,Morning,15,3.8,25,24.0,5,Phone
+Toronto,September,Hawaiian,86,Tuesday,Night,5,4.4,54,-1.7,5,Phone
+Calgary,July,BBQ Chicken,112,Saturday,Night,20,2.8,47,2.0,5,Online
+Edmonton,December,Cheese,115,Saturday,Night,15,2.5,27,29.7,1,Phone
+Vancouver,August,Veggie,153,Friday,Morning,20,2.5,39,28.9,6,Phone
+Vancouver,June,BBQ Chicken,70,Thursday,Evening,5,4.4,47,-2.6,4,Online
+Calgary,July,BBQ Chicken,74,Tuesday,Evening,15,3.1,48,6.3,4,In-Person
+Toronto,July,Cheese,185,Monday,Evening,20,3.3,48,28.1,6,Online
+Edmonton,December,BBQ Chicken,104,Monday,Night,10,2.0,22,14.5,5,Online
+Toronto,April,BBQ Chicken,116,Wednesday,Night,10,2.0,44,9.6,5,In-Person
+Toronto,October,Cheese,133,Friday,Evening,15,2.6,49,25.6,1,Online
+Ottawa,December,Veggie,72,Thursday,Night,15,3.4,28,-3.3,2,In-Person
+Toronto,March,Veggie,57,Friday,Evening,10,2.2,29,10.5,3,In-Person
+Ottawa,March,Hawaiian,141,Sunday,Morning,5,2.7,26,-1.8,5,In-Person
+Edmonton,July,BBQ Chicken,60,Saturday,Night,10,4.5,36,0.4,6,Online
+Edmonton,December,Pepperoni,126,Friday,Night,15,4.5,29,-2.3,3,Phone
+Edmonton,February,Pepperoni,50,Friday,Night,0,4.3,31,22.2,1,Phone
+Vancouver,July,BBQ Chicken,115,Thursday,Morning,15,4.9,56,20.0,4,Phone
+Ottawa,December,Veggie,160,Saturday,Evening,5,2.4,58,-7.1,1,Online
+Ottawa,October,BBQ Chicken,153,Tuesday,Morning,20,3.7,20,-7.4,2,In-Person
+Toronto,February,Hawaiian,138,Thursday,Afternoon,5,3.2,38,27.9,4,In-Person
+Toronto,December,Veggie,131,Monday,Morning,10,4.9,56,21.7,4,Online
+Edmonton,May,BBQ Chicken,108,Sunday,Night,20,4.3,45,-3.6,3,Phone
+Toronto,June,Hawaiian,191,Monday,Afternoon,10,1.5,23,-7.6,5,Online
+Edmonton,July,Cheese,161,Monday,Evening,0,4.2,52,8.5,1,Online
+Edmonton,August,Pepperoni,104,Sunday,Night,10,3.5,40,-1.2,3,Phone
+Vancouver,June,Hawaiian,162,Wednesday,Afternoon,10,3.6,20,20.0,3,Online
+Ottawa,February,Pepperoni,50,Wednesday,Morning,0,4.1,56,7.9,1,Phone
+Vancouver,March,Hawaiian,100,Friday,Evening,5,2.7,49,17.7,6,Online
+Ottawa,August,Hawaiian,67,Sunday,Morning,10,4.4,30,23.1,4,Phone
+Ottawa,July,Pepperoni,181,Thursday,Evening,15,4.3,45,16.7,2,Online
+Toronto,November,Hawaiian,85,Friday,Evening,15,1.2,46,29.2,3,Online
+Edmonton,April,Cheese,186,Tuesday,Night,20,4.8,42,17.9,6,In-Person
+Ottawa,February,Pepperoni,121,Wednesday,Afternoon,15,2.9,44,30.0,1,Phone
+Toronto,January,Cheese,106,Friday,Night,20,4.2,33,2.4,3,In-Person
+Edmonton,February,Cheese,76,Monday,Morning,10,4.8,59,24.7,1,Phone
+Vancouver,February,Cheese,183,Tuesday,Night,0,2.0,32,-0.8,3,Phone
+Vancouver,July,Hawaiian,78,Tuesday,Afternoon,20,1.3,25,29.6,1,Online
+Toronto,May,Hawaiian,126,Tuesday,Evening,20,3.2,45,23.0,6,Phone
+Vancouver,February,Pepperoni,120,Sunday,Afternoon,15,3.2,47,27.7,3,Phone
+Calgary,May,Veggie,136,Wednesday,Morning,20,3.1,26,-8.1,6,Online
+Vancouver,June,Hawaiian,187,Monday,Afternoon,5,3.8,51,1.5,6,Phone
+Toronto,February,Pepperoni,69,Wednesday,Morning,10,4.4,27,6.5,1,In-Person
+Edmonton,October,Hawaiian,169,Thursday,Morning,15,3.9,22,22.5,6,Online
+Ottawa,August,BBQ Chicken,89,Monday,Afternoon,10,2.2,44,1.6,5,Online
+Toronto,May,Pepperoni,83,Sunday,Morning,0,1.7,57,13.2,5,Phone
+Calgary,May,Hawaiian,151,Tuesday,Afternoon,0,3.9,57,22.1,4,Online
+Toronto,November,Hawaiian,137,Sunday,Morning,10,1.9,51,-9.0,4,Phone
+Toronto,August,Hawaiian,137,Sunday,Evening,5,4.0,53,21.3,4,Phone
+Toronto,March,BBQ Chicken,74,Friday,Evening,5,1.3,36,26.5,2,Online
+Calgary,August,Hawaiian,127,Thursday,Morning,10,4.5,38,-5.5,5,Phone
+Calgary,November,Hawaiian,140,Saturday,Night,5,2.5,46,-3.2,3,Online
+Edmonton,March,Pepperoni,193,Thursday,Morning,0,1.3,26,25.0,2,In-Person
+Edmonton,June,Pepperoni,81,Wednesday,Afternoon,5,2.8,35,11.4,2,In-Person
+Ottawa,August,Veggie,81,Saturday,Evening,20,2.3,48,-6.2,4,Phone
+Calgary,June,Hawaiian,143,Thursday,Night,20,2.5,29,-9.6,6,Online
+Toronto,March,Hawaiian,95,Wednesday,Evening,10,4.9,50,4.3,2,Online
+Ottawa,December,Hawaiian,107,Tuesday,Afternoon,5,4.6,56,-1.5,2,In-Person
+Ottawa,January,Cheese,55,Thursday,Morning,10,5.0,26,7.3,5,Online
+Vancouver,December,BBQ Chicken,162,Wednesday,Afternoon,20,4.3,52,17.0,2,Online
+Edmonton,June,Veggie,148,Monday,Morning,15,4.4,51,18.0,1,Phone
+Toronto,October,Hawaiian,184,Saturday,Morning,15,4.1,38,-3.5,5,Phone
+Vancouver,May,Cheese,176,Friday,Evening,5,3.1,34,25.3,2,Online
+Vancouver,January,Hawaiian,72,Monday,Morning,20,1.2,42,11.4,6,Online
+Vancouver,February,Cheese,120,Monday,Morning,5,1.1,28,25.8,1,Phone
+Edmonton,September,Hawaiian,130,Wednesday,Night,20,3.0,30,13.3,1,Online
+Vancouver,January,Cheese,151,Monday,Night,20,4.2,31,22.9,6,Online
+Edmonton,September,Pepperoni,176,Saturday,Evening,10,4.2,21,26.2,2,In-Person
+Calgary,February,Hawaiian,65,Thursday,Afternoon,5,4.2,31,-8.5,5,Online
+Vancouver,May,Hawaiian,148,Monday,Night,10,4.9,55,-9.5,1,Online
+Ottawa,February,Veggie,167,Sunday,Evening,15,2.3,44,15.0,5,Phone
+Toronto,February,Cheese,124,Thursday,Morning,15,2.2,42,14.1,4,In-Person
+Toronto,November,BBQ Chicken,92,Friday,Afternoon,20,1.2,26,18.1,2,Phone
+Vancouver,July,BBQ Chicken,54,Friday,Night,0,1.1,40,28.0,3,Online
+Vancouver,July,Cheese,140,Thursday,Evening,0,2.1,56,15.6,1,Phone
+Edmonton,October,Cheese,192,Friday,Night,20,2.9,36,0.6,5,Phone
+Toronto,April,Pepperoni,79,Saturday,Night,5,3.6,50,-5.3,4,Online
+Toronto,September,Veggie,122,Friday,Morning,10,4.7,37,23.5,6,In-Person
+Calgary,May,Cheese,170,Wednesday,Morning,0,2.0,47,4.6,4,Online
+Calgary,August,BBQ Chicken,163,Friday,Evening,0,4.0,23,12.2,6,In-Person
+Toronto,January,Hawaiian,193,Sunday,Night,0,2.5,33,-6.6,6,Phone
+Vancouver,November,BBQ Chicken,78,Friday,Night,5,1.7,55,3.6,5,Online
+Calgary,February,Cheese,108,Saturday,Morning,20,3.0,43,18.6,6,Online
+Ottawa,March,Veggie,121,Sunday,Evening,0,2.8,31,22.4,5,Phone
+Vancouver,November,Cheese,162,Friday,Night,10,4.9,41,-7.2,1,Phone
+Edmonton,June,Pepperoni,123,Monday,Afternoon,10,4.8,22,19.9,2,Online
+Calgary,February,Hawaiian,170,Thursday,Afternoon,5,1.7,44,11.9,1,In-Person
+Toronto,December,Pepperoni,70,Sunday,Afternoon,0,3.7,54,9.2,1,Phone
+Toronto,April,Hawaiian,68,Sunday,Morning,15,4.1,45,6.9,3,In-Person
+Ottawa,April,BBQ Chicken,114,Friday,Morning,20,2.8,29,23.0,3,In-Person
+Toronto,December,Hawaiian,102,Thursday,Night,10,4.1,41,18.1,3,Online
+Calgary,August,Hawaiian,59,Sunday,Afternoon,5,4.7,58,10.4,3,Online
+Calgary,April,Cheese,198,Sunday,Evening,10,3.0,27,15.0,1,Phone
+Vancouver,September,BBQ Chicken,69,Wednesday,Night,5,3.2,51,29.8,6,Phone
+Edmonton,October,Hawaiian,98,Tuesday,Morning,10,3.5,30,23.2,6,Online
+Toronto,July,Cheese,140,Wednesday,Night,15,2.0,59,1.1,4,In-Person
+Edmonton,September,Hawaiian,159,Saturday,Morning,20,3.0,40,19.2,6,Online
+Toronto,February,Hawaiian,65,Thursday,Evening,0,4.2,55,6.5,2,Online
+Edmonton,January,Cheese,91,Thursday,Afternoon,15,1.6,45,23.2,5,Online
+Toronto,March,Pepperoni,153,Tuesday,Morning,0,2.9,30,17.7,2,Phone
+Vancouver,January,Hawaiian,68,Monday,Evening,15,2.1,50,11.9,5,Online
+Vancouver,March,Hawaiian,97,Sunday,Evening,10,1.4,42,21.5,1,Phone
+Toronto,August,Veggie,95,Saturday,Morning,10,1.4,50,26.5,3,Phone
+Ottawa,May,BBQ Chicken,186,Saturday,Evening,20,1.5,55,15.7,4,Phone
+Vancouver,September,Pepperoni,196,Friday,Evening,10,1.8,59,12.6,2,Online
+Vancouver,December,Veggie,113,Wednesday,Morning,10,1.2,49,12.9,4,In-Person
+Ottawa,February,BBQ Chicken,75,Saturday,Morning,15,3.8,58,22.8,5,Online
+Toronto,January,Veggie,139,Friday,Night,10,1.8,41,-7.2,4,Phone
+Toronto,February,Pepperoni,140,Friday,Morning,0,4.5,35,-7.8,5,Online
+Ottawa,October,Veggie,127,Monday,Afternoon,5,4.8,26,24.0,3,Online
+Toronto,November,BBQ Chicken,183,Tuesday,Evening,5,4.3,50,-0.8,3,Online
+Ottawa,July,BBQ Chicken,125,Tuesday,Morning,20,2.8,54,-3.9,4,Phone
+Calgary,June,Pepperoni,169,Friday,Morning,5,2.5,54,27.0,6,In-Person
+Edmonton,April,Hawaiian,165,Saturday,Evening,15,3.0,33,21.3,6,Online
+Edmonton,November,Veggie,82,Thursday,Morning,0,3.5,35,20.8,1,Online
+Toronto,January,Hawaiian,130,Wednesday,Night,15,2.6,58,11.7,3,Phone
+Ottawa,September,Cheese,95,Friday,Night,5,3.1,53,2.0,3,In-Person
+Vancouver,November,Cheese,131,Sunday,Morning,0,4.0,32,24.1,1,Phone
+Ottawa,May,Pepperoni,163,Friday,Afternoon,10,1.4,40,6.7,1,Phone
+Calgary,June,Hawaiian,79,Sunday,Night,20,3.9,33,7.3,6,Online
+Calgary,June,Hawaiian,86,Tuesday,Morning,5,3.5,31,9.4,1,In-Person
+Ottawa,November,Veggie,66,Wednesday,Afternoon,10,4.9,23,18.6,5,Online
+Edmonton,June,BBQ Chicken,106,Saturday,Evening,15,3.1,39,6.1,1,Phone
+Vancouver,December,Veggie,173,Saturday,Night,5,4.7,38,5.2,4,Online
+Calgary,June,Pepperoni,181,Sunday,Evening,0,2.6,46,-7.2,2,Online
+Toronto,May,Hawaiian,68,Monday,Night,10,3.7,24,19.5,2,In-Person
+Ottawa,February,BBQ Chicken,61,Wednesday,Evening,0,3.3,51,27.6,6,Phone
+Ottawa,December,BBQ Chicken,60,Wednesday,Evening,15,3.6,29,2.0,5,In-Person
+Vancouver,November,Cheese,198,Friday,Morning,10,3.2,37,7.8,3,In-Person
+Toronto,June,BBQ Chicken,67,Saturday,Afternoon,5,3.7,56,19.6,4,Phone
+Vancouver,November,Hawaiian,162,Wednesday,Morning,10,3.5,21,24.6,6,Phone
+Calgary,November,BBQ Chicken,54,Tuesday,Morning,20,4.7,28,-6.8,3,Online
+Vancouver,September,Pepperoni,145,Tuesday,Morning,20,4.6,35,2.3,3,In-Person
+Edmonton,February,BBQ Chicken,191,Friday,Evening,5,2.0,40,-5.0,4,Online
+Toronto,July,Cheese,57,Friday,Night,5,4.0,33,17.6,1,Online
+Calgary,October,Pepperoni,198,Saturday,Night,20,5.0,36,20.0,1,Online
+Toronto,September,Cheese,125,Wednesday,Morning,15,1.7,43,6.6,3,Online
+Calgary,May,Veggie,109,Monday,Morning,20,3.2,55,11.3,3,In-Person
+Calgary,August,Cheese,93,Wednesday,Morning,0,3.9,26,24.3,5,In-Person
+Toronto,April,BBQ Chicken,61,Friday,Evening,0,1.8,45,11.4,3,In-Person
+Vancouver,February,Hawaiian,183,Sunday,Night,20,1.7,55,21.0,1,In-Person
+Edmonton,July,Hawaiian,92,Sunday,Morning,20,4.0,59,-7.7,6,Phone
+Calgary,October,Cheese,197,Wednesday,Night,5,3.1,51,-7.4,4,Online
+Calgary,November,Pepperoni,95,Monday,Evening,15,3.5,49,-2.5,5,Phone
+Toronto,May,Cheese,114,Sunday,Morning,5,1.9,58,29.4,6,Online
+Ottawa,July,BBQ Chicken,196,Friday,Night,5,3.6,43,18.5,2,Online
+Vancouver,April,BBQ Chicken,101,Wednesday,Night,15,3.6,48,26.8,4,Phone
+Calgary,July,Hawaiian,155,Wednesday,Evening,5,3.5,37,18.0,2,Phone
+Calgary,January,Pepperoni,58,Sunday,Evening,20,2.4,57,27.5,5,Phone
+Ottawa,December,Cheese,96,Saturday,Morning,20,1.6,59,23.0,5,Phone
+Toronto,November,Hawaiian,60,Wednesday,Evening,10,1.8,43,16.8,5,Online
+Edmonton,September,Hawaiian,75,Monday,Evening,20,4.8,36,4.9,2,Phone
+Vancouver,June,Pepperoni,189,Friday,Night,15,2.1,57,4.5,5,Phone
+Toronto,July,BBQ Chicken,127,Tuesday,Morning,10,3.5,46,22.2,1,In-Person
+Edmonton,February,Hawaiian,135,Tuesday,Evening,5,2.6,53,1.1,5,In-Person
+Toronto,October,BBQ Chicken,51,Tuesday,Night,15,1.2,31,-8.7,5,Phone
+Edmonton,March,Veggie,98,Thursday,Evening,5,3.0,41,-6.1,2,Phone
+Vancouver,November,Pepperoni,116,Saturday,Night,20,1.4,25,24.2,3,Phone
+Edmonton,November,Cheese,120,Wednesday,Morning,0,3.7,31,7.2,5,Phone
+Calgary,December,BBQ Chicken,183,Friday,Night,20,4.9,28,4.4,3,Online
+Ottawa,February,Hawaiian,55,Wednesday,Night,5,4.7,27,-7.0,3,In-Person
+Toronto,December,Hawaiian,52,Tuesday,Night,10,3.1,44,-6.0,1,Phone
+Toronto,November,BBQ Chicken,74,Wednesday,Morning,0,2.0,25,-3.3,1,In-Person
+Ottawa,February,Veggie,144,Monday,Evening,0,2.5,49,15.1,2,Phone
+Edmonton,January,BBQ Chicken,62,Monday,Afternoon,15,3.6,41,15.1,2,In-Person
+Calgary,May,Cheese,108,Monday,Afternoon,0,1.7,55,-8.2,5,Phone
+Toronto,August,Pepperoni,72,Tuesday,Evening,0,1.5,23,17.1,2,Phone
+Edmonton,August,Veggie,151,Wednesday,Morning,0,3.4,49,-3.5,3,In-Person
+Calgary,October,BBQ Chicken,111,Tuesday,Morning,0,3.3,29,26.0,4,In-Person
+Vancouver,April,Cheese,131,Thursday,Afternoon,20,1.5,43,-2.9,2,Phone
+Ottawa,July,Pepperoni,168,Sunday,Night,5,3.9,35,24.2,1,In-Person
+Calgary,May,Hawaiian,163,Friday,Afternoon,20,1.9,22,4.1,5,Online
